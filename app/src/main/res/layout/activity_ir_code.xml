@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="cn.edu.zstu.smarthome.IrCodeActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="50dp">
+
+        <Button
+            android:id="@+id/ir_code_power"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Power" />
+
+        <Button
+            android:id="@+id/ir_code_fans_speed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="风速"/>
+
+        <Button
+            android:id="@+id/ir_code_fans_yaotou"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="摇头"/>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:padding="20dp">
+
+        <Button
+            android:id="@+id/ir_code_pre_group"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pre" />
+
+        <Button
+            android:id="@+id/ir_code_next_group"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Next" />
+
+    </LinearLayout>
+
+</RelativeLayout>

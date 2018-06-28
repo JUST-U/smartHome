@@ -1,0 +1,1706 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="strs_air_type">
+        <item> 奥克斯 S101060137B-0207(AUX S101060137B-0207)</item>
+        <item> 奥克斯 S101060137B-0207a(AUX S101060137B-0207a)</item>
+        <item> 奥克斯 S101060137B-0207b(AUX S101060137B-0207b)</item>
+        <item> 奥克斯 S101060137B-0207c(AUX S101060137B-0207c)</item>
+        <item> 奥克斯 S101060137B-0207d(AUX S101060137B-0207d)</item>
+        <item> 奥克斯 S101060137B-0207e(AUX S101060137B-0207e)</item>
+        <item> 奥克斯 YKR-F/001(AUX YKR-F/001)</item>
+        <item> 奥克斯 YKR-F/001a(AUX YKR-F/001a)</item>
+        <item> 奥克斯 YKR-F/001b(AUX YKR-F/001b)</item>
+        <item> 奥克斯 YKR-F/001c(AUX YKR-F/001c)</item>
+        <item> 奥克斯 YKR-F/001d(AUX YKR-F/001d)</item>
+        <item> 奥克斯 YKR-F/001e(AUX YKR-F/001e)</item>
+        <item> 奥克斯 YRK-H/008(AUX YRK-H/008)</item>
+        <item> 奥克斯 YKR-H/002E(AUX YKR-H/002E)</item>
+        <item> 奥克斯 YKR-H/888(AUX YKR-H/888)</item>
+        <item> 奥克斯 YKR-H/002(AUX YKR-H/002)</item>
+        <item> 奥克斯 KFR-35GW/BPR2SQ-4(AUX KFR-35GW/BPR2SQ-4)</item>
+        <item> 奥克斯 KFR-32GW/BPR2SQ-4(AUX KFR-32GW/BPR2SQ-4)</item>
+        <item> 奥克斯 KFR-72LW/SFT+2(AUX KFR-72LW/SFT+2)</item>
+        <item> 奥克斯 KF-26GW/SFD+3(AUX KF-26GW/SFD+3)</item>
+        <item> 奥克斯 KFR-35GW/BPSFA-3(AUX KFR-35GW/BPSFA-3)</item>
+        <item> 奥克斯 KFR-35GW/BPSFD-2(AUX KFR-35GW/BPSFD-2)</item>
+        <item> 奥克斯 KFR-51LW/SFA+3(AUX KFR-51LW/SFA+3)</item>
+        <item> 奥克斯 KFR-26GW/BPKPA-3(AUX KFR-26GW/BPKPA-3)</item>
+        <item> 奥克斯 KFR-23GW/SQA+3(AUX KFR-23GW/SQA+3)</item>
+        <item> 奥克斯 KFR-35GW/SFD+3(AUX KFR-35GW/SFD+3)</item>
+        <item> 奥克斯 KFR-23GW/SFD+2(AUX KFR-23W/SFD+2)</item>
+        <item> 奥克斯 KFR-35GW/SF-1(AUX KFR-35GW/SF-1)</item>
+        <item> 奥克斯 KFR-26GW/BPSSD-2(AUX KFR-26GW/BPSSD-2)</item>
+        <item> 奥克斯 KFR-25GW/SQB+3(AUX KFR-25GW/SQB+3)</item>
+        <item> 奥克斯 KFR-25GW/SQB+2(AUX KFR-25GW/SQB+2)</item>
+        <item> 奥克斯 KFR-25GW/KGA+2(AUX KFR-25GW/KGA+2)</item>
+        <item> 奥克斯 KFR-26GW/BPKZA-3(AUX KFR-26GW/BPKZA-3)</item>
+        <item> 奥克斯 KFR-35GW/BPSSD-2(AUX KFR-35GW/BPSSD-2)</item>
+        <item> 奥克斯 KFR-35GW/BPSSD-3(AUX KFR-35GW/BPSSD-3)</item>
+        <item> 奥克斯 KFR-35GW/PA+3(AUX KFR-35GW/PA+3)</item>
+        <item> 奥克斯 KFR-32GW/KGA+2(AUX KFR-32GW/KGA+2)</item>
+        <item> 奥克斯 KFR-35GW/SQB+3(AUX KFR-35GW/SQB+3)</item>
+        <item> 奥克斯 KFR-35GW/SFP+2(AUX KFR-35GW/SFP+2)</item>
+        <item> 奥克斯 KFR-32GW/SQB+2(AUX KFR-32GW/SQB+2)</item>
+        <item> 奥克斯 KFR-25GW/SF-1(AUX KFR-25GW/SF-1)</item>
+        <item> 奥克斯 KFR-32GW/SFG+3(AUX KFR-32GW/SFG+3)</item>
+        <item> 奥克斯 KFR-51LW/N-1(AUX KFR-51LW/N-1)</item>
+        <item> 奥克斯 KFR-51LW/SF-1(AUX KFR-51LW/SF-1)</item>
+        <item> 奥克斯 KFR-32GW/SSE+3(AUX KFR-32GW/SSE+3)</item>
+        <item> 奥克斯 KFR-35GW/KGA+2(AUX KFR-35GW/KGA+2)</item>
+        <item> 奥克斯 KFR-23GW/SF-1(AUX KFR-23GW/SF-1)</item>
+        <item> 奥克斯 KFR-23GW/SD-1(AUX KFR-23GW/SD-1)</item>
+        <item> 奥克斯 KFR-26GW/BPSSD-3(AUX KFR-26GW/BPSSD-3)</item>
+        <item> 奥克斯 KFR-35GW/SFG+3(AUX KFR-35GW/SFG+3)</item>
+        <item> 奥克斯 KFR-25GW/KPH+2(AUX KFR-25GW/KPH+2)</item>
+        <item> 奥克斯 KFR-25GW/SSE+3(AUX KFR-25GW/SSE+3)</item>
+        <item> 奥克斯 KFR-32GW/SF-1(AUX KFR-32GW/SF-1)</item>
+        <item> 奥克斯 KFR-35GW/SSE+3(AUX KFR-35GW/SSE+3)</item>
+        <item> 奥克斯 KFR-120LW/N3+3(AUX KFR-120LW/N3+3)</item>
+        <item> 奥克斯 KFR-32GW/SD-1(AUX KFR-32GW/SD-1)</item>
+        <item> 奥克斯 KFR-32GW/SQB+3(AUX KFR-32GW/SQB+3)</item>
+        <item> 奥克斯 KFR-26GW/BPKMA-2(AUX KFR-26GW/BPKMA-2)</item>
+        <item> 奥克斯 KFR-35GW/BPKMA-2(AUX KFR-35GW/BPKMA-2)</item>
+        <item> 奥克斯 KFR-35GW/DA+2(AUX KFR-35GW/DA+2)</item>
+        <item> 奥克斯 KFR-35GW/BPR2SQ-3(AUX KFR-35GW/BPR2SQ-3)</item>
+        <item> 奥克斯 KFR-23GW/QB(2)(AUX KFR-23GW/QB(2))</item>
+        <item> 奥克斯 KFR-72LW/SFA+3(AUX KFR-72LW/SFA+3)</item>
+        <item> 奥克斯 KFR-35GW/SFB+3(AUX KFR-35GW/SFB+3)</item>
+        <item> 奥克斯 KFR-72LW/BpVF-1(AUX KFR-72LW/BpVF-1)</item>
+        <item> 奥克斯 KFR-32GW/N(3)J(AUX KFR-32GW/N(3)J)</item>
+        <item> 奥克斯 KFR-25GW/SF(3)(AUX KFR-25GW/SF(3))</item>
+        <item> 奥克斯 KFR-35GW/SF(3)(AUX KFR-35GW/SF(3))</item>
+        <item> 奥克斯 KFR-23GW/SG(3)(AUX KFR-23GW/SG(3))</item>
+        <item> 奥克斯 KFR-25GW/SG(3)(AUX KFR-25GW/SG(3))</item>
+        <item> 奥克斯 KFR-32GW/SG(3)(AUX KFR-32GW/SG(3))</item>
+        <item> 奥克斯 KFR-35GW/KAB+3(AUX KFR-35GW/KAB+3)</item>
+        <item> 奥克斯 KFR-51LW/N(2)(AUX KFR-51LW/N(2))</item>
+        <item> 奥克斯 KFR-32GW/SG-1(AUX KFR-32GW/SG-1)</item>
+        <item> 奥克斯 KFR-32GW/SA-1(AUX KFR-32GW/SA-1)</item>
+        <item> 奥克斯 KFR-51LW/N-2(AUX KFR-51LW/N-2)</item>
+        <item> 奥克斯 KFR-35GW/BpSV(2)(AUX KFR-35GW/BpSV(2))</item>
+        <item> 奥克斯 KFR-35GW/SD-1(AUX KFR-35GW/SD-1)</item>
+        <item> 奥克斯 KFR-35GW/SA1-1(AUX KFR-35GW/SA1-1)</item>
+        <item> 奥克斯 KFR-25GW/N(3)(AUX KFR-25GW/N(3))</item>
+        <item> 奥克斯 KFR-32GW/N(3)(AUX KFR-32GW/N(3))</item>
+        <item> 奥克斯 KFR-35GW/N(3)(AUX KFR-35GW/N(3))</item>
+        <item> 奥克斯 KF-23GW/SD-1(AUX KF-23GW/SD-1)</item>
+        <item> 奥克斯 KFR-25GW/SG-1(AUX KFR-25GW/SG-1)</item>
+        <item> 奥克斯 KFR-35GW/SG-1(AUX KFR-35GW/SG-1)</item>
+        <item> 奥克斯 KF-26GW/SA1-1(AUX KF-26GW/SA1-1)</item>
+        <item> 奥克斯 KFR-25GW/SA1-1(AUX KFR-25GW/SA1-1)</item>
+        <item> 奥克斯 KFR-72LW/VH-2(AUX KFR-72LW/VH-2)</item>
+        <item> 奥克斯 KFR-35GW/SF(3)A(AUX KFR-35GW/SF(3)A)</item>
+        <item> 奥克斯 KFR-26GW/BPSF-3(AUX KFR-26GW/BPSF-3)</item>
+        <item> 奥克斯 KFR-35GW/BPSF-3(AUX KFR-35GW/BPSF-3)</item>
+        <item> 奥克斯 YKR-F/06(AUX YKR-F/06)</item>
+        <item> 奥克斯 YKR-F/006(AUX YKR-F/006)</item>
+        <item> 奥克斯 YKR-F/001(AUX YKR-F/001)</item>
+        <item> 奥克斯 YKR-F/09R09(AUX YKR-F/09R09)</item>
+        <item> 奥克斯 YKR-F/09R(AUX YKR-F/09R)</item>
+        <item> 奥克斯 AUX-G(AUX AUX-G)</item>
+        <item> 奥克斯 YKR-F/010(AUX YKR-F/010)</item>
+        <item> 奥克斯 KFR-35GW/EN7-M3(AUX KFR-35GW/EN7-M3)</item>
+        <item> 奥克斯 KFR-32GW/EN(4)(AUX KFR-32GW/EN(4))</item>
+        <item> 奥克斯 KFR-32GW/EB(4)(AUX KFR-32GW/EB(4))</item>
+        <item> 奥克斯 KFR-51LW/P(AUX KFR-51LW/P)</item>
+        <item> 奥克斯 KT-AX3(AUX KT-AX3)</item>
+        <item> 奥克斯 AUX-E1(AUX AUX-E1)</item>
+        <item> 奥克斯 KT-AX4(AUX KT-AX4)</item>
+        <item> 奥克斯 KFR-50LW(AUX KFR-50LW)</item>
+        <item> 奥克斯 AUX-C(AUX AUX-C)</item>
+        <item> 奥克斯 KFR-25GW/ES(5)(AUX KFR-25GW/ES(5))</item>
+        <item> 奥克斯 KFR-32GW/HSZ(AUX KFR-32GW/HSZ)</item>
+        <item> 奥克斯 KFR-35GW/HSZ(AUX KFR-35GW/HSZ)</item>
+        <item> 奥克斯 KFR-32GW/HSADY(AUX KFR-32GW/HSADY)</item>
+        <item> 奥克斯 KFR-25GW/HDY冷静净王(AUX KFR-25GW/HDY冷静净王)</item>
+        <item> 奥克斯 KFR-23GW/HY(AUX KFR-23GW/HY)</item>
+        <item> 奥克斯 KFR-25GW/EA(AUX KFR-25GW/EA)</item>
+        <item> 奥克斯 KT-AX1(AUX KT-AX1)</item>
+        <item> 奥克斯 YKR-H/009(AUX YKR-H/009)</item>
+        <item> 长虹 KK10A(Changhong KK10A)</item>
+        <item> 长虹 KK10Aa(Changhong KK10Aa)</item>
+        <item> 长虹 KK10B(Changhong KK10B)</item>
+        <item> 长虹 KK10Ba(Changhong KK10Ba)</item>
+        <item> 长虹 KK21A(Changhong KK21A)</item>
+        <item> 长虹 KK21Aa(Changhong KK21Aa)</item>
+        <item> 长虹 KK22A(Changhong KK22A)</item>
+        <item> 长虹 KK22Aa(Changhong KK22Aa)</item>
+        <item> 长虹 KK22A-B(Changhong KK22A-B)</item>
+        <item> 长虹 KK22A-Ba(Changhong KK22A-Ba)</item>
+        <item> 长虹 KK3(Changhong KK3)</item>
+        <item> 长虹 KK3a(Changhong KK3a)</item>
+        <item> 长虹 KK31A(Changhong KK31A)</item>
+        <item> 长虹 KK31Aa(Changhong KK31Aa)</item>
+        <item> 长虹 KK33A(Changhong KK33A)</item>
+        <item> 长虹 KK33Aa(Changhong KK33Aa)</item>
+        <item> 长虹 KK7B(Changhong KK7B)</item>
+        <item> 春兰 CL-04(Chunlan CL-04)</item>
+        <item> 春兰 CL-04a(Chunlan CL-04a)</item>
+        <item> 春兰 CL-04b(Chunlan CL-04b)</item>
+        <item> 春兰 CL-04c(Chunlan CL-04c)</item>
+        <item> 春兰 CL-04d(Chunlan CL-04d)</item>
+        <item> 春兰 CL-04e(Chunlan CL-04e)</item>
+        <item> 春兰 CL-04f(Chunlan CL-04f)</item>
+        <item> 春兰 CL-04g(Chunlan CL-04g)</item>
+        <item> 春兰 KT-CL3(Chunlan KT-CL3)</item>
+        <item> 春兰 KT-CL3a(Chunlan KT-CL3a)</item>
+        <item> 春兰 KT-CL3b(Chunlan KT-CL3b)</item>
+        <item> 春兰 KT-CL2C(Chunlan KT-CL2C)</item>
+        <item> 春兰 KT-CL-09(Chunlan KT-CL-09)</item>
+        <item> 春兰 KFR-35GW/E(Chunlan KFR-35GW/E)</item>
+        <item> 春兰 KFR-32GW/GA(Chunlan KFR-32GW/GA)</item>
+        <item> 春兰 KFR-35GW(Chunlan KFR-35GW)</item>
+        <item> 春兰 KFR-22GWA(Chunlan KFR-22GWA)</item>
+        <item> 春兰 KFR-32GWA(Chunlan KFR-32GWA)</item>
+        <item> 春兰 KFR-32GA(Chunlan KFR-32GA)</item>
+        <item> 春兰 KFR-35GW/D(Chunlan KFR-35GW/D)</item>
+        <item> 春兰 KFR-40GWA(Chunlan KFR-40GWA)</item>
+        <item> 春兰 QFD-CL1A(Chunlan QFD-CL1A)</item>
+        <item> 春兰 KFR-35GW/VK(Chunlan KFR-35GW/VK)</item>
+        <item> 春兰 KFR-KF-23GW/VH1(Chunlan KFR-KF-23GW/VH1)</item>
+        <item> 春兰 KF-25GW/VL(Chunlan KF-25GW/VL)</item>
+        <item> 春兰 KFR-25GW/VF2d-E1a(Chunlan KFR-25GW/VF2d-E1a)</item>
+        <item> 春兰 KFR-23GW/VF2d-E1(Chunlan KFR-23GW/VF2d-E1)</item>
+        <item> 春兰 KFR-23GW/Vd(Chunlan KFR-23GW/Vd)</item>
+        <item> 春兰 KFR-32GW/VKd新(Chunlan KFR-32GW/VKd新)</item>
+        <item> 春兰 KFR-35GW/Vd(Chunlan KFR-35GW/Vd)</item>
+        <item> 春兰 KFR-32GW/VJ(Chunlan KFR-32GW/VJ)</item>
+        <item> 春兰 KFR-25GW/VF2(1)d-E1(Chunlan KFR-25GW/VF2(1)d-E1)</item>
+        <item> 春兰 KFR-25GW/VF2d-E1(Chunlan KFR-25GW/VF2d-E1)</item>
+        <item> 春兰 KFR-32GW/T101(Chunlan KFR-32GW/T101)</item>
+        <item> 春兰 KFR-23GW/VK(Chunlan KFR-23GW/VK)</item>
+        <item> 春兰 KFR-25GW/VH1(d)(Chunlan KFR-25GW/VH1(d))</item>
+        <item> 春兰 KFR-35GW/T1(Chunlan KFR-35GW/T1)</item>
+        <item> 春兰 KFR-23GW/HY1(Chunlan KFR-23GW/HY1)</item>
+        <item> 格兰仕 GZ-01D(Glanz GZ-01D)</item>
+        <item> 格兰仕 GZ-01Da(Glanz GZ-01Da)</item>
+        <item> 格兰仕 GZ-01Db(Glanz GZ-01Db)</item>
+        <item> 格兰仕 GZ-01Dc(Glanz GZ-01Dc)</item>
+        <item> 格兰仕 GZ-01Dd(Glanz GZ-01Dd)</item>
+        <item> 格兰仕 GZ-01De(Glanz GZ-01De)</item>
+        <item> 格兰仕 GZ-01Df(Glanz GZ-01Df)</item>
+        <item> 格兰仕 GZ-03GB(Glanz GZ-03GB)</item>
+        <item> 格兰仕 GZ-03GBa(Glanz GZ-03GBa)</item>
+        <item> 格兰仕 GZ-03GBb(Glanz GZ-03GBb)</item>
+        <item> 格兰仕 GZ-03GBc(Glanz GZ-03GBc)</item>
+        <item> 格兰仕 GZ-03GBd(Glanz GZ-03GBd)</item>
+        <item> 格兰仕 GZ-03GBe(Glanz GZ-03GBe)</item>
+        <item> 格兰仕 GZ-03GBf(Glanz GZ-03GBf)</item>
+        <item> 格兰仕 GZ-31B(Glanz GZ-31B)</item>
+        <item> 格兰仕 GZ-31Ba(Glanz GZ-31Ba)</item>
+        <item> 格兰仕 GZ-31Bb(Glanz GZ-31Bb)</item>
+        <item> 格兰仕 GZ-31Bc(Glanz GZ-31Bc)</item>
+        <item> 格兰仕 GZ-31Bd(Glanz GZ-31Bd)</item>
+        <item> 格兰仕 GZ-31Be(Glanz GZ-31Be)</item>
+        <item> 格兰仕 GZ-31Bf(Glanz GZ-31Bf)</item>
+        <item> 格兰仕 GZ-36GB(Galanz GZ-36GB)</item>
+        <item> 格兰仕 HYKF-02GLZ/B(Galanz HYKF-02GLZ/B)</item>
+        <item> 格兰仕 HYKF-02GLZ/B-1(Galanz HYKF-02GLZ/B-1)</item>
+        <item> 格兰仕 HYKF-02GLZ/B-2(Galanz HYKF-02GLZ/B-2)</item>
+        <item> 格兰仕 GZ-01B(Galanz GZ-01B)</item>
+        <item> 格兰仕 GZ-01A(Galanz GZ-01A)</item>
+        <item> 格兰仕 GZ-01D(Galanz GZ-01D)</item>
+        <item> 格兰仕 GZ-01C(Galanz GZ-01C)</item>
+        <item> 格兰仕 GZ-01DH(Galanz GZ-01DH)</item>
+        <item> 格兰仕 GZ-02A(Galanz GZ-02A)</item>
+        <item> 格兰仕 GZ03GB(Galanz GZ03GB)</item>
+        <item> 格兰仕 GZ-1002B(Galanz GZ-1002B)</item>
+        <item> 格兰仕 KFR-51LW/DLB10-230(2)(Galanz KFR-51LW/DLB10-230(2))</item>
+        <item> 格兰仕 KFR-26GW/RDVDL9-150(3)(Galanz KFR-26GW/RDVDL9-150(3))</item>
+        <item> 格兰仕 KFR-35GW/DLC45-130(1)(Galanz KFR-35GW/DLC45-130(1))</item>
+        <item> 格兰仕 KFR-50LW/dA4-120(Galanz KFR-50LW/dA4-120)</item>
+        <item> 格兰仕 KFR-35GW/dLD34-130(2)(Galanz KFR-35GW/dLD34-130(2))</item>
+        <item> 格兰仕 KFR-23GW/DA1-P50(Galanz KFR-23GW/DA1-P50)</item>
+        <item> 格兰仕 KF-25GW/A3-010(Galanz KF-25GW/A3-010)</item>
+        <item> 格兰仕 KF-26GW/A3-010(Galanz KF-26GW/A3-010)</item>
+        <item> 格兰仕 KFR-35GW/dLL23-110(Galanz KFR-35GW/dLL23-110)</item>
+        <item> 格兰仕 KFR-32GW/DA1-130(Galanz KFR-32GW/DA1-130)</item>
+        <item> 格兰仕 KFR-32GW/DLL21-150(Galanz KFR-32GW/DLL21-150)</item>
+        <item> 格兰仕 KFR-35GW/DLC42-130(2)(Galanz KFR-35GW/DLC42-130(2))</item>
+        <item> 格兰仕 GZ-50GB(Galanz GZ-50GB)</item>
+        <item> 格力 Y502(Gree Y502)</item>
+        <item> 格力 Y502a(Gree Y502a)</item>
+        <item> 格力 Y502b(Gree Y502b)</item>
+        <item> 格力 Y502c(Gree Y502c)</item>
+        <item> 格力 Y502d(Gree Y502d)</item>
+        <item> 格力 Y502e(Gree Y502e)</item>
+        <item> 格力 Y502f(Gree Y502f)</item>
+        <item> 格力 Y502K(Gree Y502K)</item>
+        <item> 格力 Y502Ka(Gree Y502Ka)</item>
+        <item> 格力 Y502Kb(Gree Y502Kb)</item>
+        <item> 格力 Y502Kc(Gree Y502Kc)</item>
+        <item> 格力 Y502Kd(Gree Y502Kd)</item>
+        <item> 格力 Y502Ke(Gree Y502Ke)</item>
+        <item> 格力 Y502Kf(Gree Y502Kf)</item>
+        <item> 格力 Y502S(Gree Y502S)</item>
+        <item> 格力 Y502Sa(Gree Y502Sa)</item>
+        <item> 格力 YB0F2(Gree YB0F2)</item>
+        <item> 格力 YB0F(Gree YB0F)</item>
+        <item> 格力 YAD0F(Gree YAD0F)</item>
+        <item> 格力 YAD0F1(Gree YAD0F1)</item>
+        <item> 格力 KFR-50LW/R(Gree KFR-50LW/R)</item>
+        <item> 格力 KFR-50LW/R(50533L)(Gree KFR-50LW/R(50533L))</item>
+        <item> 格力 KFR-50LW/R(50533L)-JN2(Gree KFR-50LW/R(50533L)-JN2)</item>
+        <item>格力 YAP0F3(Gree YAP0F3)</item>
+        <item>格力 YAP0F(Gree YAP0F)</item>
+        <item> 海尔 CAR-13PUN(Haier CAR-13PUN)</item>
+        <item> 海尔 CAR-13PUNa(Haier CAR-13PUNa)</item>
+        <item> 海尔 CAR-13PUNb(Haier CAR-13PUNb)</item>
+        <item> 海尔 CAR-13PUNc(Haier CAR-13PUNc)</item>
+        <item> 海尔 CAR-13PUNd(Haier CAR-13PUNd)</item>
+        <item> 海尔 YR-M10(Haier YR-M10)</item>
+        <item> 海尔 YR-M10a(Haier YR-M10a)</item>
+        <item> 海尔 YR-M10b(Haier YR-M10b)</item>
+        <item> 海尔 YR-M10c(Haier YR-M10c)</item>
+        <item> 海尔 YR-M10d(Haier YR-M10d)</item>
+        <item> 海尔 YR-D04(Haier YR-D04)</item>
+        <item> 海尔 YR-D01(Haier YR-D01)</item>
+        <item> 海尔 YL-D01(Haier YL-D01)</item>
+        <item> 海尔 YR-D02(Haier YR-D02)</item>
+        <item> 海尔 YR-D03(Haier YR-D03)</item>
+        <item> 海尔 YR-C03(Haier YR-C03)</item>
+        <item> 海尔 YR-C02(Haier YR-C02)</item>
+        <item> 海尔 YR-C01(Haier YR-C01)</item>
+        <item> 海尔 YR-C04(Haier YR-C04)</item>
+        <item> 海尔 KT-HR1(Haier KT-HR1)</item>
+        <item> 海尔 KF-33GW(Haier KF-33GW)</item>
+        <item> 海尔 CAR-13PVU(Haier CAR-13PVU)</item>
+        <item> 海尔 CAR-13PUN(Haier CAR-13PUN)</item>
+        <item> 海尔 KFR-33GW/B(Haier KFR-33GW/B)</item>
+        <item> 海尔 KFR-23GW(Haier KFR-23GW)</item>
+        <item> 海尔 KFRD-35GW/Z2(Haier KFRD-35GW/Z2)</item>
+        <item> 海尔 KF-23GW/E2-S5(Haier KF-23GW/E2-S5)</item>
+        <item> 海尔 KF-33GW/E3-S5(Haier KF-33GW/E3-S5)</item>
+        <item> 海尔 KFRd-33GW/H5(Haier KFRd-33GW/H5)</item>
+        <item> 海尔 KFR-32GW/Z2(Haier KFR-32GW/Z2)</item>
+        <item> 海尔 KFR-33GW/H2(Haier KFR-33GW/H2)</item>
+        <item> 海尔 KFR-26GW/E2(BP)(Haier KFR-26GW/E2(BP))</item>
+        <item> 海尔 KF-25GW/Z2(Haier KF-25GW/Z2)</item>
+        <item> 海尔 KFRd-35GW/H5(Haier KFRd-35GW/H5)</item>
+        <item> 海尔 KFRd-23GW/Z7(Haier KFRd-23GW/Z7)</item>
+        <item> 海尔 KFR-23GW/Z2(Haier KFR-23GW/Z2)</item>
+        <item> 海尔 KF-23GW/Z2(Haier KF-23GW/Z2)</item>
+        <item> 海尔 KFRD-25GW/HC(F)(Haier KFRD-25GW/HC(F))</item>
+        <item> 海尔 KFR-35GW/E1(DBPF)(Haier KFR-35GW/E1(DBPF))</item>
+        <item> 海尔 KFRD-35GW/HC(F)套机(Haier KFRD-35GW/HC(F)套机)</item>
+        <item> 海尔 KFR-35GW/E2(BP)(Haier KFR-35GW/E2(BP))</item>
+        <item> 海尔 KFRd-23GW/03E-S4(Haier KFRd-23GW/03E-S4)</item>
+        <item> 海尔 KFRD-23GW/HCF(Haier KFRd-23GW/HCF)</item>
+        <item> 海尔 KF-25GW/H5(Haier KF-25GW/H5)</item>
+        <item> 海尔 KF-35GW/H5(Haier KF-35GW/H5)</item>
+        <item> 海尔 KFRd-26GW/H5(Haier KFRd-26GW/H5)</item>
+        <item> 海尔 KFRd-23GW/H5(Haier KFRd-23GW/H5)</item>
+        <item> 海尔 KFRd-25GW/H3(Haier KFRd-25GW/H3)</item>
+        <item> 海尔 KFRd-33GW/H3(Haier KFRd-33GW/H3)</item>
+        <item> 海尔 KFRd-23GW/H3(Haier KFRd-23GW/H3)</item>
+        <item> 海尔 KFRd-35GW/Z7(Haier KFRd-35GW/Z7)</item>
+        <item> 海尔 KFRd-33GW/Z7(Haier KFRd-33GW/Z7)</item>
+        <item> 海尔 KFRd-25GW/Z3(Haier KFRd-25GW/Z3)</item>
+        <item> 海尔 KFRd-33GW/Z3(Haier KFRd-33GW/Z3)</item>
+        <item> 海尔 KFRd-35GW/Z3(Haier KFRd-35GW/Z3)</item>
+        <item> 海尔 KFRd-23GW/Z3(Haier KFRd-23GW/Z3)</item>
+        <item> 海尔 KFR-35GW/Z2(Haier KFR-35GW/Z2)</item>
+        <item> 海尔 KFR-35GW/H2(Haier KFR-35GW/H2)</item>
+        <item> 海尔 KF-23GW/H2(Haier KF-23GW/H2)</item>
+        <item> 海尔 KF-25GW/H2(Haier KF-25GW/H2)</item>
+        <item> 海尔 KF-33GW/H2(Haier KF-33GW/H2)</item>
+        <item> 海尔 KFRd-58LW/Z2(Haier KFRd-58LW/Z2)</item>
+        <item> 海尔 KFR-28GW/U(DBPZXF)(酒红面板)(Haier KFR-28GW/U(DBPZXF)(酒红面板))</item>
+        <item> 海尔 KFR-25GW/H2(Haier KFR-25GW/H2)</item>
+        <item> 海尔 KFR-23GW/H2(Haier KFR-23GW/H2)</item>
+        <item> 海尔 KFR-26GW/BP1(Haier KFR-26GW/BP1)</item>
+        <item> 海尔 KFR-35GW/H(Haier KFR-35GW/H)</item>
+        <item> 海尔 KFR-33GW/H(Haier KFR-33GW/H)</item>
+        <item> 海尔 KFR-50GW/V(ZXF)(Haier KFR-50GW/V(ZXF))</item>
+        <item> 海尔 KFRD-58LW/Z(Haier KFRD-58LW/Z)</item>
+        <item> 海尔 KFR-26G/SAG11(Haier KFR-26G/SAG11)</item>
+        <item> 海尔 KFR-26G/SR2DBPF-S1(Haier KFR-26G/SR2DBPF-S1)</item>
+        <item> 海尔 KFR-50L/SCG13(Haier KFR-50L/SCG13)</item>
+        <item> 海尔 KFR-50G/SAG11(Haier KFR-50G/SAG11)</item>
+        <item> 海尔 KFR-50GW/62SAG11(Haier KFR-50GW/62SAG11)</item>
+        <item> 海尔 YR-H74(Haier YR-H74)</item>
+        <item> 海尔 YR-H76(Haier YR-H76)</item>
+        <item> 海尔 YR-H78(Haier YR-H78)</item>
+        <item> 海尔 YR-H82(Haier YR-H82)</item>
+        <item> 海尔 YR-W08(Haier YR-W08)</item>
+        <item> 海尔 YR-W01(Haier YR-W01)</item>
+        <item> 海尔 YR-W02(Haier YR-W02)</item>
+        <item> 海尔 YR-W03(Haier YR-W03)</item>
+        <item> 海尔 YR-W04(Haier YR-W04)</item>
+        <item> 海尔 YR-W06(Haier YR-W06)</item>
+        <item> 海尔 YR-T02(Haier YR-T02)</item>
+        <item> 海尔 YR-T03(Haier YR-T03)</item>
+        <item> 海尔 KFRD-35GW(Haier KFRD-35GW)</item>
+        <item> 海尔 KFR-50GW/SR2DBPQF-S2(Haier KFRD-35GW)</item>
+        <item> 海尔 KFR-72LW/SR2DBPQF-S1(Haier KFR-72LW/SR2DBPQF-S1)</item>
+        <item> 海尔 KFR-50GW/02SAC22(Haier KFR-50GW/02SAC22)</item>
+        <item> 海尔 KFR-72LW/61BAX12(Haier KFR-72LW/61BAX12)</item>
+        <item> 海尔 KFR-35GW/05FFC23(Haier KFR-35GW/05FFC23)</item>
+        <item> 海尔 KFR-35GW/02PAC22(Haier KFR-35GW/02PAC22)</item>
+        <item> 海尔 KFR-35GW/05HBQ23(浪漫花束)(Haier KFR-35GW/05HBQ23(浪漫花束))</item>
+        <item> 海尔 KFR-35GW/05FFC23套机(Haier KFR-35GW/05FFC23套机)</item>
+        <item> 海尔 KFR-12QW/6302K(Haier KFR-12QW/6302K)</item>
+        <item> 海尔 KFR-35GW/02PAQ22(Haier KFR-35GW/02PAQ22)</item>
+        <item> 海尔 KFR-72LW/02HBF12(天香牡丹)(Haier KFR-72LW/02HBF12(天香牡丹))</item>
+        <item> 海尔 KFR-26GW/05FFC23(Haier KFR-26GW/05FFC23)</item>
+        <item> 海尔 KFR-35GW/01FZC23(Haier KFR-35GW/01FZC23)</item>
+        <item> 海尔 KFR-35GW/01GFC13(Haier KFR-35GW/01GFC13)</item>
+        <item> 海尔 KFRd-72LW/02UC(F)-S2(Haier KFRd-72LW/02UC(F)-S2)</item>
+        <item> 海尔 KFR-50LW/02HBF12套机(Haier KFR-50LW/02HBF12套机)</item>
+        <item> 海尔 KFR-120EW/H6301(Haier KFR-120EW/H6301)</item>
+        <item> 海尔 KFR-50LW/01NAF12(Haier KFR-50LW/01NAF12)</item>
+        <item> 海尔 KFR-35GW/01GCC13(Haier KFR-35GW/01GCC13)</item>
+        <item> 海尔 KFR-50LW/03CCF23(家电下乡)(Haier KFR-50LW/03CCF23(家电下乡))</item>
+        <item> 海尔 KFR-35GW/01FXC23(R)(Haier KFR-35GW/01FXC23(R))</item>
+        <item> 海尔 KFR-23GW/01GFC13(Haier KFR-23GW/01GFC13)</item>
+        <item> 海尔 KFR-35GW/05HBQ23套机(浪漫花束)(Haier KFR-35GW/05HBQ23套机(浪漫花束))</item>
+        <item> 海尔 KFR-26GW/03EAC12(Haier KFR-26GW/03EAC12)</item>
+        <item> 海尔 KFR-35GW/01QAF22(Haier KFR-35GW/01QAF22)</item>
+        <item> 海尔 KFR-35GW/03GFC12(Haier KFR-35GW/03GFC12)</item>
+        <item> 海尔 KFR-35GW/03GCC12(Haier KFR-35GW/03GCC12)</item>
+        <item> 海尔 KFR-72LW/06NAC13(Haier KFR-72LW/06NAC13)</item>
+        <item> 海尔 KFR-50LW/03CCF23(Haier KFR-50LW/03CCF23)</item>
+        <item> 海尔 KFR-26GW/03GFC12(Haier KFR-26GW/03GFC12)</item>
+        <item> 海尔 KFR-50LW/03FAW23(Haier KFR-50LW/03FAW23)</item>
+        <item> 海尔 KFRd-50LW/RA(F)-S2(Haier KFRd-50LW/RA(F)-S2)</item>
+        <item> 海尔 KFR-26GW/05HBQ23套机(浪漫花束)(Haier KFR-26GW/05HBQ23套机(浪漫花束))</item>
+        <item> 海尔 KFR-50LW/06NAC13(家电下乡)(Haier KFR-50LW/06NAC13(家电下乡))</item>
+        <item> 海尔 KFR-50GW/03GCC12(Haier KFR-50GW/03GCC12)</item>
+        <item> 海尔 KFR-23GW/03GFC12(Haier KFR-23GW/03GFC12)</item>
+        <item> 海尔 KFR-50LW/01NAF13(Haier KFR-50LW/01NAF13)</item>
+        <item> 海尔 KFR-50LW/03CCQ23(Haier KFR-50LW/03CCQ23)</item>
+        <item> 海尔 KFR-26GW/08QEW23(Haier KFR-26GW/08QEW23)</item>
+        <item> 海尔 KFR-50LW/06NAC13(Haier KFR-50LW/06NAC13)</item>
+        <item> 海尔 KFRd-120LW/6302K(Haier KFRd-120LW/6302K)</item>
+        <item> 海尔 KFR-26GW/02PAQ22(Haier KFR-26GW/02PAQ22)</item>
+        <item> 海尔 KFR-72LW/01NAF12(Haier KFR-72LW/01NAF12)</item>
+        <item> 海尔 KFR-26GW/01QAF22(Haier KFR-26GW/01QAF22)</item>
+        <item> 海尔 KFR-26GW/01FXC23(R)(Haier KFR-26GW/01FXC23(R))</item>
+        <item> 海尔 KFR-72LW/02HBF12(润白)(Haier KFR-72LW/02HBF12(润白))</item>
+        <item> 海尔 KFR-35GW/05HBQ23(润白)(Haier KFR-35GW/05HBQ23(润白))</item>
+        <item> 海尔 KFR-56LW/62BBW21(Haier KFR-56LW/62BBW21)</item>
+        <item> 海尔 KFR-35GW/05FGC23(钻石之花)(家电下乡)(Haier KFR-35GW/05FGC23(钻石之花)(家电下乡))</item>
+        <item> 海尔 KFR-35GW/05GJC23(Haier KFR-35GW/05GJC23)</item>
+        <item> 海尔 KFR-72GW/03EAF13(Haier KFR-72GW/03EAF13)</item>
+        <item> 海尔 KFR-26GW/01FZC23(Haier KFR-26GW/01FZC23)</item>
+        <item> 海尔 KFR-50GW/03RDC13(Haier KFR-50GW/03RDC13)</item>
+        <item> 海尔 KFR-35GW/08QEW23(Haier KFR-35GW/08QEW23)</item>
+        <item> 海尔 KFR-72LW/03HBF23(天香牡丹)(Haier KFR-72LW/03HBF23(天香牡丹))</item>
+        <item> 海尔 KF-26GW/03GFC12(Haier KF-26GW/03GFC12)</item>
+        <item> 海尔 KFR-50LW/06CCC13(Haier KFR-50LW/06CCC13)</item>
+        <item> 海尔 KFR-32GW/01GFC13(Haier KFR-32GW/01GFC13)</item>
+        <item> 海尔 KFR-50LW/01KAQ23(Haier KFR-50LW/01KAQ23)</item>
+        <item> 海尔 KFR-72LW/63BDQ22(Haier KFR-72LW/63BDQ22)</item>
+        <item> 海尔 KFR-35GW/01FAC23(Haier KFR-35GW/01FAC23)</item>
+        <item> 海尔 KFR-26GW/03GCC12(Haier KFR-26GW/03GCC12)</item>
+        <item> 海尔 KFR-72LW/61BBW21(Haier KFR-72LW/61BBW21)</item>
+        <item> 海尔 KFR-72LW/03CCQ23(Haier KFR-72LW/03CCQ23)</item>
+        <item> 海尔 KF-23GW/03GFC12(Haier KF-23GW/03GFC12)</item>
+        <item> 海尔 KFR-35GW/02SAC21(Haier KFR-35GW/02SAC21)</item>
+        <item> 海尔 KFR-26GW/03GKC12(Haier KFR-26GW/03GKC12)</item>
+        <item> 海尔 KF-35GW/03GFC13(Haier KF-35GW/03GFC13)</item>
+        <item> 海尔 KFR-72GW/03GCC12(Haier KFR-72GW/03GCC12)</item>
+        <item> 海尔 KFR-35GW/05GJC23-DS(Haier KFR-35GW/05GJC23-DS)</item>
+        <item> 海尔 KFR-35GW/01FAQ23(Haier KFR-35GW/01FAQ23)</item>
+        <item> 海尔 KFRd-26GW/02RA(F)-S1(Haier KFRd-26GW/02RA(F)-S1)</item>
+        <item> 海尔 KFR-26GW/02PAC22(Haier KFR-26GW/02PAC22)</item>
+        <item> 海尔 KFR-72LW/02NAF13(Haier KFR-72LW/02NAF13)</item>
+        <item> 海尔 KFR-35GW/01FXC23(R)(家电下乡)(Haier KFR-35GW/01FXC23(R)(家电下乡))</item>
+        <item> 海尔 KF-26GW/03GCC12(Haier KF-26GW/03GCC12)</item>
+        <item> 海尔 KFR-35GW/05FCC23(Haier KFR-35GW/05FCC23)</item>
+        <item> 海尔 KFR-35GW/01LAC13(Haier KFR-35GW/01LAC13)</item>
+        <item> 海尔 KFR-50LW/03HBF23(Haier KFR-50LW/03HBF23)</item>
+        <item> 海尔 KF-23GW/03GFC13(Haier KF-23GW/03GFC13)</item>
+        <item> 海尔 KFRd-35GW/03CE-S1(Haier KFRd-35GW/03CE-S1)</item>
+        <item> 海尔 KFR-26GW/01GFC13(Haier KFR-26GW/01GFC13)</item>
+        <item> 海尔 KFR-120LW/6302K(Haier KFR-120LW/6302K)</item>
+        <item> 海尔 KF-26GW/03GFC13(Haier KF-26GW/03GFC13)</item>
+        <item> 海尔 KFR-33GW/03GCC12(Haier KFR-33GW/03GCC12)</item>
+        <item> 海尔 KFR-23GW/01GCC13(Haier KFR-23GW/01GCC13)</item>
+        <item> 海尔 KFR-35GW/08QDW23(Haier KFR-35GW/08QDW23)</item>
+        <item> 海尔 KFR-35GW/05GFC23套机(Haier KFR-35GW/05GFC23套机)</item>
+        <item> 海尔 KFR-50LW/02RA1(R2DBPF)-S3(Haier KFR-50LW/02RA1(R2DBPF)-S3)</item>
+        <item> 海尔 KFR-50LW/01NAF13套机(Haier KFR-50LW/01NAF13套机)</item>
+        <item> 海尔 KFR-50LW/02D(R2DBPF)-S2(Haier KFR-50LW/02D(R2DBPF)-S2)</item>
+        <item> 海尔 KFR-35GW/02PAC22A(Haier KFR-35GW/02PAC22A)</item>
+        <item> 海尔 KFR-72LW/06NAC13(家电下乡)(Haier KFR-72LW/06NAC13(家电下乡))</item>
+        <item> 海尔 KF-35GW/03GCC12(Haier KF-35GW/03GCC12)</item>
+        <item> 海尔 KFR-50LW/07DFC13(Haier KFR-50LW/07DFC13)</item>
+        <item> 海尔 KFR-26GW/05GFC23套机(Haier KFR-26GW/05GFC23套机)</item>
+        <item> 海尔 KFR-26GW/01ZE(R2DBP)-S3(XE)套机(家电下乡)(Haier KFR-26GW/01ZE(R2DBP)-S3(XE)套机(家电下乡))</item>
+        <item> 海尔 KFR-35GW/05GCC23(Haier KFR-35GW/05GCC23)</item>
+        <item> 海尔 KFR-26GW/01GEC23(Haier KFR-26GW/01GEC23)</item>
+        <item> 海尔 KFR-35GW/05GMC23(Haier KFR-35GW/05GMC23)</item>
+        <item> 海尔 KFR-35GW/01GCC13(Haier KFR-35GW/01GCC13)</item>
+        <item> 海尔 KFR-23GW/01JEC13(Haier KFR-23GW/01JEC13)</item>
+        <item> 海尔 KFR-35GW/01E(R2DBP)-S4(Haier KFR-35GW/01E(R2DBP)-S4)</item>
+        <item> 海尔 KFR-26GW/01GCC13(Haier KFR-26GW/01GCC13)</item>
+        <item> 海尔 KFR-26GW/01GEQ23(Haier KFR-26GW/01GEQ23)</item>
+        <item> 海尔 KFR-72LW/02RA1(R2DBPF)-S3(Haier KFR-72LW/02RA1(R2DBPF)-S3)</item>
+        <item> 海尔 KFR-50LW/06HBF13(天香牡丹)(Haier KFR-50LW/06HBF13(天香牡丹))</item>
+        <item> 海尔 KFR-26GW/05FEC23(Haier KFR-26GW/05FEC23)</item>
+        <item> 海尔 KFR-26GW/02SAC21(Haier KFR-26GW/02SAC21)</item>
+        <item> 海尔 KFR-26GW/01GAC23(H)(家电下乡)(Haier KFR-26GW/01GAC23(H)(家电下乡))</item>
+        <item> 海尔 KFR-50LW/61BDX12(Haier KFR-50LW/61BDX12)</item>
+        <item> 海尔 KFR-26GW/01FAQ23(Haier KFR-26GW/01FAQ23)</item>
+        <item> 海尔 KFR-26GW/05GJC23(Haier KFR-26GW/05GJC23)</item>
+        <item> 海尔 KF-50LW/02HBF13(天香牡丹)(Haier KF-50LW/02HBF13(天香牡丹))</item>
+        <item> 海尔 KFR-26GW/05FCC23(Haier KFR-26GW/05FCC23)</item>
+        <item> 海尔 KFR-35GW/01EBC24(Haier KFR-35GW/01EBC24)</item>
+        <item> 海尔 KFR-26GW/01ZE(R2DBP)-S3(XE)(Haier KFR-26GW/01ZE(R2DBP)-S3(XE))</item>
+        <item> 海尔 KFR-26GW/01EBC24(Haier KFR-26GW/01EBC24)</item>
+        <item> 海尔 KF-26GW/01GCC13(Haier KF-26GW/01GCC13)</item>
+        <item> 海尔 KFR-26GW/05HBQ23套机(润白)(Haier KFR-26GW/05HBQ23套机(润白))</item>
+        <item> 海尔 KFR-26GW/02PAC22A(Haier KFR-26GW/02PAC22A)</item>
+        <item> 海尔 KFR-26GW/01E(R2DBP)-S4(Haier KFR-26GW/01E(R2DBP)-S4)</item>
+        <item> 海尔 KFR-50LW/02HBF12(Haier KFR-50LW/02HBF12)</item>
+        <item> 海尔 KFR-35GW/03EAC12(Haier KFR-35GW/03EAC12)</item>
+        <item> 海尔 KFR-23GW/03GCC12(Haier KFR-23GW/03GCC12)</item>
+        <item> 海尔 KFR-35GW/01GFC13套机(Haier KFR-35GW/01GFC13套机)</item>
+        <item> 海尔 KFR-26GW/63SCX21(Haier KFR-26GW/63SCX21)</item>
+        <item> 海尔 KFR-26GW/01LAC13(Haier KFR-26GW/01LAC13)</item>
+        <item> 海尔 KFR-26GW/01FAC23(Haier KFR-26GW/01FAC23)</item>
+        <item> 海尔 KF-35GW/03GCC13(Haier KF-35GW/03GCC13)</item>
+        <item> 海尔 KFR-72LW/06HAF13(家电下乡)(Haier KFR-72LW/06HAF13(家电下乡))</item>
+        <item> 海尔 KFR-72LW/61BDX12(Haier KFR-72LW/61BDX12)</item>
+        <item> 海尔 KFR-26GW/08QDW23(Haier KFR-26GW/08QDW23)</item>
+        <item> 海尔 KFR-250LW/730(Haier KFR-250LW/730)</item>
+        <item> 海尔 KFR-26GW/01FAQ23(雅白)(Haier KFR-26GW/01FAQ23(雅白))</item>
+        <item> 海尔 KFR-35GW/05JFC23(天香牡丹)(Haier KFR-35GW/05JFC23(天香牡丹))</item>
+        <item> 海尔 KFR-35GW/03ECC12(Haier KFR-35GW/03ECC12)</item>
+        <item> 海尔 KFR-35GW/01ZE(R2DBP)-S3(XE)(Haier KFR-35GW/01ZE(R2DBP)-S3(XE))</item>
+        <item> 海尔 KFR-26GW/05HBQ23(浪漫花束)(Haier KFR-26GW/05HBQ23(浪漫花束))</item>
+        <item> 海尔 KFR-35GW/01GFQ23(Haier KFR-35GW/01GFQ23)</item>
+        <item> 海尔 KFR-72LW/02NAF13套机(Haier KFR-72LW/02NAF13套机)</item>
+        <item> 海尔 KFR-50LW/06HAF13(Haier KFR-50LW/06HAF13)</item>
+        <item> 海尔 KF-23GW/01GCC13(Haier KF-23GW/01GCC13)</item>
+        <item> 海尔 KF-35GW/01GAC13(B)(Haier KF-35GW/01GAC13(B))</item>
+        <item> 海尔 KFR-72LW/03HBF23(Haier KFR-72LW/03HBF23)</item>
+        <item> 海尔 KFR-50LW/61BAX12(Haier KFR-50LW/61BAX12)</item>
+        <item> 海尔 KFR-35GW/01GEQ23(Haier KFR-35GW/01GEQ23)</item>
+        <item> 海尔 KFR-26GW/03ECC12(Haier KFR-26GW/03ECC12)</item>
+        <item> 海尔 KFR-60LW/03HBF23(Haier KFR-60LW/03HBF23)</item>
+        <item> 海尔 KFR-33GW/01LAC13(Haier KFR-33GW/01LAC13)</item>
+        <item> 海尔 KF-50LW/06CCC13(Haier KF-50LW/06CCC13)</item>
+        <item> 海尔 KFR-50LW/01AAF13(Haier KFR-50LW/01AAF13)</item>
+        <item> 海尔 KF-72LW/06CCC13(Haier KF-72LW/06CCC13)</item>
+        <item> 海尔 KFR-35GW/01GAC23(H)(家电下乡)(Haier KFR-35GW/01GAC23(H)(家电下乡))</item>
+        <item> 海尔 KFR-23GW/03EAC12(Haier KFR-23GW/03EAC12)</item>
+        <item> 海尔 KFR-35GW/01GAC13(H)(家电下乡)(Haier KFR-35GW/01GAC13(H)(家电下乡))</item>
+        <item> 海尔 KFR-23GW/01GFC13套机(Haier KFR-23GW/01GFC13套机)</item>
+        <item> 海尔 KFR-23GW/01LAC13(Haier KFR-23GW/01LAC13)</item>
+        <item> 海尔 KFR-26GW/01JEQ23(Haier KFR-26GW/01JEQ23)</item>
+        <item> 海尔 KFR-50GW/03RCC13(Haier KFR-50GW/03RCC13)</item>
+        <item> 海尔 KFR-72LW/06HBF13(天香牡丹)(Haier KFR-72LW/06HBF13(天香牡丹))</item>
+        <item> 海尔 KFR-72LW/06HBF13(润白)(Haier KFR-72LW/06HBF13(润白))</item>
+        <item> 海尔 KFR-26GW/01GFC13套机(Haier KFR-26GW/01GFC13套机)</item>
+        <item> 海尔 KFR-33GW/03ECC12(Haier KFR-33GW/03ECC12)</item>
+        <item> 海尔 KF-26GW/01GAC13(B)(Haier KF-26GW/01GAC13(B))</item>
+        <item> 海尔 KFR-72LW/06CCC13(Haier KFR-72LW/06CCC13)</item>
+        <item> 海尔 KFR-26GW/05FGC23(钻石之花)(家电下乡)(Haier KFR-26GW/05FGC23(钻石之花)(家电下乡))</item>
+        <item> 海尔 KFR-26GW/05GMC23(家电下乡)(Haier KFR-26GW/05GMC23(家电下乡))</item>
+        <item> 海尔 KFR-26GW/01JEC13(Haier KFR-26GW/01JEC13)</item>
+        <item> 海尔 KFR-35GW/01JEC13(Haier KFR-35GW/01JEC13)</item>
+        <item> 海尔 KFR-50GW/RCC13(Haier KFR-50GW/RCC13)</item>
+        <item> 海尔 KFR-26GW/05HBQ23(润白)(Haier KFR-26GW/05HBQ23(润白))</item>
+        <item> 海尔 KFR-26GW/05GNC23(JDXX)套机(Haier KFR-26GW/05GNC23(JDXX)套机)</item>
+        <item> 海尔 KFR-26GW/05GIC23(Haier KFR-26GW/05GIC23)</item>
+        <item> 海尔 KFR-32GW/01GIC13(Haier KFR-32GW/01GIC13)</item>
+        <item> 海尔 KFR-26GW/01GIC13(Haier KFR-26GW/01GIC13)</item>
+        <item> 海尔 KFR-26GW/01GFQ23(Haier KFR-26GW/01GFQ23)</item>
+        <item> 海尔 KFR-32GW/01FZC24(Haier KFR-32GW/01FZC24)</item>
+        <item> 海尔 KFR-23GW/03ECC12(Haier KFR-23GW/03ECC12)</item>
+        <item> 海尔 KFR-72LW/31NAF13(Haier KFR-72LW/31NAF13)</item>
+        <item> 海尔 KFR-35GW/05FDC23(云白)(Haier KFR-35GW/05FDC23(云白))</item>
+        <item> 海尔 KF-23GW/03GCC12(Haier KF-23GW/03GCC12)</item>
+        <item> 海尔 KFR-32GW/01FZC24套机(Haier KFR-32GW/01FZC24套机)</item>
+        <item> 海尔 KFR-26GW/01FXC23(R)(家电下乡)(Haier KFR-26GW/01FXC23(R)(家电下乡))</item>
+        <item> 海尔 KFR-33GW/01JEC13(Haier KFR-33GW/01JEC13)</item>
+        <item> 海尔 KFR-26GW/05GCC23(Haier KFR-26GW/05GCC23)</item>
+        <item> 海尔 KFR-33GW/01GAC13(H)(家电下乡)(Haier KFR-33GW/01GAC13(H)(家电下乡))</item>
+        <item> 海尔 KFR-35GW/01GEC23(Haier KFR-35GW/01GEC23)</item>
+        <item> 海尔 KFR-26GW/01JEC13(家电下乡)(Haier KFR-26GW/01JEC13(家电下乡))</item>
+        <item> 海尔 KFR-35GW/03GCC12(Q)(Haier KFR-35GW/03GCC12(Q))</item>
+        <item> 海尔 KFR-35GW/05HBQ23套机(润白)(Haier KFR-35GW/05HBQ23套机(润白))</item>
+        <item> 海尔 KFR-50LW/06NRC13(家电下乡)(Haier KFR-50LW/06NRC13(家电下乡))</item>
+        <item> 海尔 KFR-50LW/06NRC13(Haier KFR-50LW/06NRC13)</item>
+        <item> 海尔 KFR-60LW/03CCQ23套机(Haier KFR-60LW/03CCQ23套机)</item>
+        <item> 海尔 KF-72LW/01HBF13(天香牡丹)(Haier KF-72LW/01HBF13(天香牡丹))</item>
+        <item> 海尔 KFR-35GW/05GMC23(家电下乡)(Haier KFR-35GW/05GMC23(家电下乡))</item>
+        <item> 海尔 KFR-26GW/05JFC23(天香牡丹)(Haier KFR-26GW/05JFC23(天香牡丹))</item>
+        <item> 海尔 KFR-26GW/05GMC23(Haier KFR-26GW/05GMC23)</item>
+        <item> 海尔 KFR-35GW/05GIC23(Haier KFR-35GW/05GIC23)</item>
+        <item> 海尔 KFR-35GW/01GIC13(Haier KFR-35GW/01GIC13)</item>
+        <item> 海尔 KF-23GW/01GAC13(B)(Haier KF-23GW/01GAC13(B))</item>
+        <item> 海尔 KFR-23GW/01GIC13(Haier KFR-23GW/01GIC13)</item>
+        <item> 海尔 KFR-72LW/01KAQ23(Haier KFR-72LW/01KAQ23)</item>
+        <item> 海尔 KFR-35GW/05FDC23(波纹白)(Haier KFR-35GW/05FDC23(波纹白))</item>
+        <item> 海尔 KFR-26GW/05FDC23(波纹白)(Haier KFR-26GW/05FDC23(波纹白))</item>
+        <item> 海尔 KFR-35GW/05FEC23(Haier KFR-35GW/05FEC23)</item>
+        <item> 海尔 KFR-50LW/63BDQ22(Haier KFR-50LW/63BDQ22)</item>
+        <item> 海尔 KFR-35GW/05FDC23(天香牡丹)(Haier KFR-35GW/05FDC23(天香牡丹))</item>
+        <item> 海尔 KFR-26GW/05FDC23(天香牡丹)(Haier KFR-26GW/05FDC23(天香牡丹))</item>
+        <item> 海尔 KFR-26GW/05FDC23(云白)(Haier KFR-26GW/05FDC23(云白))</item>
+        <item> 海尔 KFR-33GW/03EAC12(Haier KFR-33GW/03EAC12)</item>
+        <item> 海尔 KFR-72LW/06HBF13(珠光白)(Haier KFR-72LW/06HBF13(珠光白))</item>
+        <item> 海尔 KFR-35GW/01ZE(R2DBP)-S4无氟变频(Haier KFR-35GW/01ZE(R2DBP)-S4无氟变频)</item>
+        <item> 海尔 KFR-50LW/02D(R2DBPF)-S2套机(Haier KFR-50LW/02D(R2DBPF)-S2套机)</item>
+        <item> 海尔 KFRd-35GW/02SC(F)-S2(Haier KFRd-35GW/02SC(F)-S2)</item>
+        <item> 海尔 KFRd-72LW/Z5(Haier KFRd-72LW/Z5)</item>
+        <item> 海尔 KFRd-50LW/Z5(Haier KFRd-50LW/Z5)</item>
+        <item> 海尔 KFR-35GW/02S(R2DBPXF)-S1 无氟变频(Haier KFR-35GW/02S(R2DBPXF)-S1 无氟变频)</item>
+        <item> 海尔 KFRd-72LW/02M(F)-S2(Haier KFRd-72LW/02M(F)-S2)</item>
+        <item> 海尔 KFR-26GW/01ZE(R2DBP)-S4 无氟变频(Haier KFR-26GW/01ZE(R2DBP)-S4 无氟变频)</item>
+        <item> 海尔 KFRd-33GW/03CE-S1(Haier KFRd-33GW/03CE-S1)</item>
+        <item> 海尔 KFR-68LW/V(BPF)(Haier KFR-68LW/V(BPF))</item>
+        <item> 海尔 KFRd-50LW/UB(F)(Haier KFRd-50LW/UB(F))</item>
+        <item> 海尔 KFRd-35GW/R(QXF)(Haier KFRd-35GW/R(QXF))</item>
+        <item> 海尔 KFR-60GW/V(ZXF)(Haier KFR-60GW/V(ZXF))</item>
+        <item> 海尔 KFRd-48LW/Z2(Haier KFRd-48LW/Z2)</item>
+        <item> 海尔 KFRd-71LW/Z(Haier KFRd-71LW/Z)</item>
+        <item> 海尔 KFRd-35GW/02ZRA(F)-S2(Haier KFRd-35GW/02ZRA(F)-S2)</item>
+        <item> 海尔 KFRd-35GW/03CE-S5(Haier KFRd-35GW/03CE-S5)</item>
+        <item> 海尔 KFRd-50LW/01BN(F)-S2(Haier KFRd-50LW/01BN(F)-S2)</item>
+        <item> 海尔 KFR-28GW/01CA(R2DBPF)(珠光白新图案)套机(Haier KFR-28GW/01CA(R2DBPF)(珠光白新图案)套机)</item>
+        <item> 海尔 KF-23GW/03E-S1(Haier KF-23GW/03E-S1)</item>
+        <item> 海尔 KFRd-23GW/03GCE-S1套机(Haier KFRd-23GW/03GCE-S1套机)</item>
+        <item> 海尔 KFRd-60LW/R(QXF)(Haier KFRd-60LW/R(QXF))</item>
+        <item> 海尔 KFRd-72LW/Z(S)(Haier KFRd-72LW/Z(S))</item>
+        <item> 海尔 KFR-72LW/06NRC13(Haier KFR-72LW/06NRC13)</item>
+        <item> 海尔 KFRD-35GW/RXF(Haier KFRD-35GW/RXF)</item>
+        <item> 海尔 KFRD-60LW/UA(F)(Haier KFRD-60LW/UA(F))</item>
+        <item> 海尔 KFRd-35GW/02MRA(F)-S2套机(家电下乡MRA)(Haier KFRd-35GW/02MRA(F)-S2套机(家电下乡MRA))</item>
+        <item> 海尔 KFRD-33GW/02JC(F)-S2(Haier KFRD-33GW/02JC(F)-S2)</item>
+        <item> 海尔 KFRd-23GW/RA1(F)-S5(Haier KFRd-23GW/RA1(F)-S5)</item>
+        <item> 海尔 KFRD-23GW/A(QXF)(珠光白)(Haier KFRD-23GW/A(QXF)(珠光白))</item>
+        <item> 海尔 KFRd-50LW/A(QXF)(香槟金)(Haier KFRd-50LW/A(QXF)(香槟金))</item>
+        <item> 海尔 KFR-35GW/01ZE(R2DBP)-S3(XE)套机(家电下乡)(Haier KFR-35GW/01ZE(R2DBP)-S3(XE)套机(家电下乡))</item>
+        <item> 海尔 KFRd-35GW/02ZRA-S2(家电下乡)套机(Haier KFRd-35GW/02ZRA-S2(家电下乡)套机)</item>
+        <item> 海尔 KF-50LW/02RA1-S2套机(家电下乡)(Haier KF-50LW/02RA1-S2套机(家电下乡))</item>
+        <item> 海尔 KFR-35GW/62SAG11套机(Haier KFR-35GW/62SAG11套机)</item>
+        <item> 海尔 KFRd-26GW/01K(F)-S1(Haier KFRd-26GW/01K(F)-S1)</item>
+        <item> 海尔 KFRd-35GW/01K(F)-S1(Haier KFRd-35GW/01K(F)-S1)</item>
+        <item> 海尔 KFRd-50LW/01K(XF)-S2(Haier KFRd-50LW/01K(XF)-S2)</item>
+        <item> 海尔 KFR-26GW/02S(R2DBPXF)-S1无氟变频(Haier KFR-26GW/02S(R2DBPXF)-S1无氟变频)</item>
+        <item> 海尔 KFRd-35GW/02MRA(F)-S3(Haier KFRd-35GW/02MRA(F)-S3)</item>
+        <item> 海尔 KFRd-23GW/02MRA(F)-S3(Haier KFRd-23GW/02MRA(F)-S3)</item>
+        <item> 海尔 KFRd-26GW/02C(F)(Haier KFRd-26GW/02C(F))</item>
+        <item> 海尔 KFRd-72LW/01BA(XF)-S1(Haier KFRd-72LW/01BA(XF)-S1)</item>
+        <item> 海尔 KFR-50LW/01R(DBPF)(虞美人红)(Haier KFRd-50LW/01R(DBPF)(虞美人红))</item>
+        <item> 海尔 KFRd-23GW/02JC(F)-S2(Haier KFRd-23GW/02JC(F)-S2)</item>
+        <item> 海尔 KFRd-35GW/02JC(F)-S2套机(Haier KFRd-35GW/02JC(F)-S2套机)</item>
+        <item> 海尔 KFRd-23GW/02ZRA(F)-S1(Haier KFRd-23GW/02ZRA(F)-S1)</item>
+        <item> 海尔 KFRd-26GW/02ZRA(F)-S1(Haier KFRd-26GW/02ZRA(F)-S1)</item>
+        <item> 海尔 KF-23GW/02ZRA(F)-S2套机(Haier KFRd-23GW/02ZRA(F)-S2套机)</item>
+        <item> 海尔 KF-35GW/02ZRA(F)-S2套机(Haier KFRd-35GW/02ZRA(F)-S2套机)</item>
+        <item> 海尔 KFRD-23GW/02ZRA(F)-S2(Haier KFRD-23GW/02ZRA(F)-S2)</item>
+        <item> 海尔 KFRd-50LW/01BA(XF)-S1套机(Haier KFRd-50LW/01BA(XF)-S1套机)</item>
+        <item> 海尔 KFR-72LW/02D(R2DBPF)-S2套机(Haier KFR-72LW/02D(R2DBPF)-S2套机)</item>
+        <item> 海尔 KFR-28GW/E1(DBP)(牡丹新图案)套机(Haier KFR-28GW/E1(DBP)(牡丹新图案)套机)</item>
+        <item> 海尔 KFR-35GW/E1(DBP)(牡丹新图案)套机(Haier KFR-35GW/E1(DBP)(牡丹新图案)套机)</item>
+        <item> 海尔 KFR-35GW/01CA(R2DBPF)(珠光白新图案)套机(Haier KFR-35GW/01CA(R2DBPF)(珠光白新图案)套机)</item>
+        <item> 海尔 KFR-50LW/02RA1(DBPF)-S3套机(象牙白)(Haier KFR-50LW/02RA1(DBPF)-S3套机(象牙白))</item>
+        <item> 海尔 KFR-26GW/01ZE(R2DBP)-S4套机(Haier KFR-26GW/01ZE(R2DBP)-S4套机)</item>
+        <item> 海尔 KFRd-33GW/03E-S3套机(家电下乡E牡丹)(Haier KFRd-33GW/03E-S3套机(家电下乡E牡丹))</item>
+        <item> 海尔 KFRd-33GW/03E-S3套机(家电下乡E酒红)(Haier KFRd-33GW/03E-S3套机(家电下乡E酒红))</item>
+        <item> 海尔 KFRd-46LW/01UC-S3套机(家电下乡UC)(Haier KFRd-46LW/01UC-S3套机(家电下乡UC))</item>
+        <item> 海尔 KFRd-26GW/02MRA(F)-S2(Haier KFRd-26GW/02MRA(F)-S2)</item>
+        <item> 海尔 KFRd-26GW/02MRA(F)-S3(Haier KFRd-26GW/02MRA(F)-S3)</item>
+        <item> 海尔 KFR-120LW/6302(Haier KFR-120LW/6302)</item>
+        <item> 海尔 KFRd-35GW/03E-S3(Haier KFRd-35GW/03E-S3)</item>
+        <item> 海尔 KFRd-35GW/A(QXF)(香槟金)(Haier KFRd-35GW/A(QXF)(香槟金))</item>
+        <item> 海尔 KFRd-50LW/A(QXF)(Haier KFRd-50LW/A(QXF))</item>
+        <item> 海尔 KFRd-23GW/02D(HF)-S1(Haier KFRd-23GW/02D(HF)-S1)</item>
+        <item> 海尔 KFRd-26GW/02ZC(F)-S2(Haier KFRd-26GW/02ZC(F)-S2)</item>
+        <item> 海尔 KFRd-26GW/02D(HF)-S1(Haier KFRd-26GW/02D(HF)-S1)</item>
+        <item> 海尔 KFRd-33GW/02D(HF)-S1(Haier KFRd-33GW/02D(HF)-S1)</item>
+        <item> 海尔 KFRd-35GW/01B(QXF)-S1(Haier KFRd-35GW/01B(QXF)-S1)</item>
+        <item> 海尔 KFRd-35GW/02ZC(F)-S2(Haier KFRd-35GW/02ZC(F)-S2)</item>
+        <item> 海尔 KFRd-35GW/02D(HF)-S1(Haier KFRd-35GW/02D(HF)-S1)</item>
+        <item> 海尔 KFRd-50LW/01B(QXF)-S1(Haier KFRd-50LW/01B(QXF)-S1)</item>
+        <item> 海尔 KFRd-50LW/01D(HF)-S2(Haier KFRd-50LW/01D(HF)-S2)</item>
+        <item> 海尔 KFRd-60LW/01B(QXF)-S2(Haier KFRd-60LW/01B(QXF)-S2)</item>
+        <item> 海尔 KFRd-72LW/01B(QXF)-S1(Haier KFRd-72LW/01B(QXF)-S1)</item>
+        <item> 海尔 KFRd-72LW/01D(HF)-S2(Haier KFRd-72LW/01D(HF)-S2)</item>
+        <item> 海尔 KF-72LW/01D(HF)-S2(Haier KF-72LW/01D(HF)-S2)</item>
+        <item> 海尔 KFRd-35GW/02RA(F)-S1(Haier KFRd-35GW/02RA(F)-S1)</item>
+        <item> 海尔 KFRd-33GW/02JC(F)-S1(Haier KFRd-33GW/02JC(F)-S1)</item>
+        <item> 海尔 KFRd-33GW/02JC(F)-S1(Haier KFRd-33GW/02JC(F)-S1)</item>
+        <item> 海尔 KF-26GW/03E-S1(Haier KF-26GW/03E-S1)</item>
+        <item> 海尔 KFRD-26GW/03E-S3(Haier KFRD-26GW/03E-S3)</item>
+        <item> 海尔 KFRd-23GW/03CE-S1(Haier KFRd-23GW/03CE-S1)</item>
+        <item> 海尔 KFRd-50LW/RA(ZXF)(Haier KFRd-50LW/RA(ZXF))</item>
+        <item> 海尔 KFR-50LW/V(BPF)(Haier KFR-50LW/V(BPF))</item>
+        <item> 海尔 KFR-60LW/V(BPF)(Haier KFR-60LW/V(BPF))</item>
+        <item> 海尔 KFR-50LW/R(DBPQXF)(Haier KFR-50LW/R(DBPQXF))</item>
+        <item> 海尔 KFRd-50LW/R(QXF)(Haier KFRd-50LW/R(QXF))</item>
+        <item> 海尔 KFRd-72LW/R(QXF)(Haier KFRd-72LW/R(QXF))</item>
+        <item> 海尔 KFRd-50LW/RA(F)(Haier KFRd-50LW/RA(F))</item>
+        <item> 海尔 KFRd-60LW/UB(F)(Haier KFRd-60LW/UB(F))</item>
+        <item> 海尔 KFRd-50LW/Z(F)(Haier KFRd-50LW/Z(F))</item>
+        <item> 海尔 KFRd-60GW/V(Haier KFRd-60GW/V)</item>
+        <item> 海尔 KFRd-50GW/V(Haier KFRd-50GW/V)</item>
+        <item> 海尔 KF-25GW/RA(ZF)(Haier KF-25GW/RA(ZF))</item>
+        <item> 海尔 KFRd-33GW/RA(ZF)(Haier KFRd-33GW/RA(ZF))</item>
+        <item> 海尔 KFRd-23GW/RA(ZF)(Haier KFRd-23GW/RA(ZF))</item>
+        <item> 海尔 KFRd-25GW/RA(ZF)(Haier KFRd-25GW/RA(ZF))</item>
+        <item> 海尔 KFRd-35GW/RA(ZF)(Haier KFRd-35GW/RA(ZF))</item>
+        <item> 海尔 KF-35GW/RA(ZF)(Haier KF-35GW/RA(ZF))</item>
+        <item> 海尔 KFRd-25GW/RA(ZXF)(Haier KFRd-25GW/RA(ZXF))</item>
+        <item> 海尔 KFRd-35GW/RA(ZXF)(Haier KFRd-35GW/RA(ZXF))</item>
+        <item> 海尔 KFRd-33GW/RA(ZXF)(Haier KFRd-33GW/RA(ZXF))</item>
+        <item> 海尔 KFRd-27GW/R(QXF)(Haier KFRd-27GW/R(QXF))</item>
+        <item> 海尔 KFRd-23GW/UB(ZF)(Haier KFRd-23GW/UB(ZF))</item>
+        <item> 海尔 KFRd-25GW/UB(ZF)(Haier KFRd-25GW/UB(ZF))</item>
+        <item> 海尔 KFRd-35GW/UB(ZF)(Haier KFRd-35GW/UB(ZF))</item>
+        <item> 海尔 KF-23GW/H5(Haier KF-23GW/H5)</item>
+        <item> 海尔 KFRd-35GW/U(ZXF)(星钻银面板)(Haier KFRd-35GW/U(ZXF)(星钻银面板))</item>
+        <item> 海尔 KFRd-23GW/UA(ZXF)(Haier KFRd-23GW/UA(ZXF))</item>
+        <item> 海尔 KFRd-35GW/UA(Haier KFRd-35GW/UA)</item>
+        <item> 海尔 KFRd-32GW/UA(Haier KFRd-32GW/UA)</item>
+        <item> 海尔 KFRd-50LW/UA(F)(Haier KFRd-50LW/UA(F))</item>
+        <item> 海尔 KFRd-72LW/UA(F)(Haier KFRd-72LW/UA(F))</item>
+        <item> 海尔 KF-35GW/H2(Haier KF-35GW/H2)</item>
+        <item> 海尔 KFRd-72LW/U(ZXF)(宝石兰面板)(Haier KFRd-72LW/U(ZXF)(宝石兰面板))</item>
+        <item> 海尔 KFRd-50LW/U(ZXF)(Haier KFRd-50LW/U(ZXF))</item>
+        <item> 海尔 KF-50LW/Z2(Haier KF-50LW/Z2)</item>
+        <item> 海尔 KF-71LW/Z2(Haier KF-71LW/Z2)</item>
+        <item> 海尔 KFR-68LW/V(BPZXF)(KFR-68LW/V(BPZXF))</item>
+        <item> 海尔 KFRd-50LW/G(ZF)(Haier KFRd-50LW/G(ZF))</item>
+        <item> 海尔 KFRd-60LW/G(ZF)(Haier KFRd-60LW/G(ZF))</item>
+        <item> 海尔 KFRd-71LW/G(ZF)(Haier KFRd-71LW/G(ZF))</item>
+        <item> 海尔 KFRd-71LW/V(ZXF)(Haier KFRd-71LW/V(ZXF))</item>
+        <item> 海尔 KFRd-50LW/V(ZXF)(Haier KFRd-50LW/V(ZXF))</item>
+        <item> 海尔 KFRd-60LW/V(ZXF)(Haier KFRd-60LW/V(ZXF))</item>
+        <item> 海尔 KFR-25GW/H(Haier KFR-25GW/H)</item>
+        <item> 海尔 KFRd-60LW/U(ZXF)(Haier KFRd-60LW/U(ZXF))</item>
+        <item> 海尔 KFR-35GW/U(DBPZXF)(Haier KFR-35GW/U(DBPZXF))</item>
+        <item> 海尔 KFR-35GW/G(ZF)(Haier KFR-35GW/G(ZF))</item>
+        <item> 海尔 KFR-25GW/G(ZF)(Haier KFR-25GW/G(ZF))</item>
+        <item> 海尔 KFR-28GW/HB(BPF)(Haier KFR-28GW/HB(BPF))</item>
+        <item> 海尔 KFR-35GW/HB(BPF)(Haier KFR-35GW/HB(BPF))</item>
+        <item> 海尔 KFR-35GW/V(DBPZXF)(Haier KFR-35GW/V(DBPZXF))</item>
+        <item> 海尔 KFR-32GW/V(ZXF)(Haier KFR-32GW/V(ZXF))</item>
+        <item> 海尔 KFRd-35GW/V(ZXF)(Haier KFRd-35GW/V(ZXF))</item>
+        <item> 海尔 KFRd-27GW/V(ZXF)(Haier KFRd-27GW/V(ZXF))</item>
+        <item> 海尔 KFRd-60LW/G(ZXF)(Haier KFRd-60LW/G(ZXF))</item>
+        <item> 海尔 KFRd-50LW/VA(ZXF)(Haier KFRd-50LW/VA(ZXF))</item>
+        <item> 海尔 KFR-60LW/V(BPZXF)(Haier KFR-60LW/V(BPZXF))</item>
+        <item> 海尔 KFRd-75LW/G(ZXF)(Haier KFRd-75LW/G(ZXF))</item>
+        <item> 海尔 AR-201(Haier AR-201)</item>
+        <item> 海尔 AR-611(Haier AR-611)</item>
+        <item> 海尔 AR-501(Haier AR-501)</item>
+        <item> 海信 DG11J1-02-01(HSN)(Hisense DG11J1-02-01(HSN))</item>
+        <item> 海信 RCH-3502V(Hisense RCH-3502V)</item>
+        <item> 海信 RCH-3502Va(Hisense RCH-3502Va)</item>
+        <item> 海信 RCH-3502Vb(Hisense RCH-3502Vb)</item>
+        <item> 海信 RCH-3502Vc(Hisense RCH-3502Vc)</item>
+        <item> 海信 RCH-3502Vd(Hisense RCH-3502Vd)</item>
+        <item> 海信 RCH-3502Ve(Hisense RCH-3502Ve)</item>
+        <item> 海信 RCH-3502Vf(Hisense RCH-3502Vf)</item>
+        <item> 海信 RCH-3502Vg(Hisense RCH-3502Vg)</item>
+        <item> 海信 RCH-5028NA(Hisense RCH-5028NA)</item>
+        <item> 海信 RCH-5028NAa(Hisense RCH-5028NAa)</item>
+        <item> 海信 RCH-5028NAb(Hisense RCH-5028NAb)</item>
+        <item> 海信 RCH-5028NAc(Hisense RCH-5028NAc)</item>
+        <item> 海信 RCH-5028NAd(Hisense RCH-5028NAd)</item>
+        <item> 海信 RCH-5028NAe(Hisense RCH-5028NAe)</item>
+        <item> 海信 RCH-5028NAf(Hisense RCH-5028NAf)</item>
+        <item> 海信 RCH-5028NAg(Hisense RCH-5028NAg)</item>
+        <item> 海信 KFR-26G/EF16A3z(Hisense KFR-26G/EF16A3z)</item>
+        <item> 华凌 HYPFCR-18(Hualing HYPFCR-18)</item>
+        <item> 华凌 HYPFCR-18a(Hualing HYPFCR-18a)</item>
+        <item> 华凌 HYPFCR-18b(Hualing HYPFCR-18b)</item>
+        <item> 华凌 HYPFCR-18c(Hualing HYPFCR-18c)</item>
+        <item> 华凌 HYPFCR-18d(Hualing HYPFCR-18d)</item>
+        <item> 华凌 HYPFCR-3(Hualing HYPFCR-3)</item>
+        <item> 华凌 HYPFCR-4(Hualing HYPFCR-4)</item>
+        <item> 华凌 HYPFCR-5(Hualing HYPFCR-5)</item>
+        <item> 华凌 HYPFCR-6(Hualing HYPFCR-6)</item>
+        <item> 科龙 KT-KL1(Kelon KT-KL1)</item>
+        <item> 科龙 KT-KL1a(Kelon KT-KL1a)</item>
+        <item> 科龙 KT-KL1b(Kelon KT-KL1b)</item>
+        <item> 科龙 KT-KL12(Kelon KT-KL12)</item>
+        <item> 科龙 KT-KL12a(Kelon KT-KL12a)</item>
+        <item> 科龙 KT-KL12b(Kelon KT-KL12b)</item>
+        <item> 科龙 KFR-35GW/ND(Kelon KFR-35GW/ND)</item>
+        <item> 科龙 KT-KL1(Kelon KT-KL1)</item>
+        <item> 科龙 KL-12(Kelon KL-12)</item>
+        <item> 科龙 KFR-32GW/VK-2(Kelon KFR-32GW/VK-2)</item>
+        <item> 科龙 KFR-32GW/UB1(Kelon KFR-32GW/UB1)</item>
+        <item> 科龙 KFR-26GW/ND1(Kelon KFR-26GW/ND1)</item>
+        <item> 科龙 KFR-23GW/ND(Kelon KFR-23GW/ND)</item>
+        <item> 科龙 KFR-26GW/N2F(Kelon KFR-26GW/N2F)</item>
+        <item> 科龙 KFR-32GW/N2F(Kelon KFR-32GW/N2F)</item>
+        <item> 科龙 KFR-35GW/N2F(Kelon KFR-35GW/N2F)</item>
+        <item> 科龙 KFR-26GW/GF(Kelon KFR-26GW/GF)</item>
+        <item> 科龙 KFR-33GW/GF(Kelon KFR-33GW/GF)</item>
+        <item> 科龙 KFR-30GW/D(Kelon KFR-30GW/D)</item>
+        <item> 科龙 KF-32GW/D(Kelon KF-32GW/D)</item>
+        <item> 科龙 DG11E4-20(Kelon DG11E4-20)</item>
+        <item> 科龙 DG114-19/16(Kelon DG114-19/16)</item>
+        <item> 科龙 KFR-5LW/06-1(Kelon KFR-5LW/06-1)</item>
+        <item> 科龙 KL-DG11E4(Kelon KL-DG11E4)</item>
+        <item> 科龙 KFR-35GW/UQ(Kelon KFR-35GW/UQ)</item>
+        <item> 科龙 KFR-35G/UQ(Kelon KFR-35G/UQ)</item>
+        <item> 科龙 KFR-35W/K1(Kelon KFR-35W/K1)</item>
+        <item> 科龙 KFR-35W/EFVCS3(Kelon KFR-35W/EFVCS3)</item>
+        <item> 科龙 KFR-32GW/UQ-1(K29)(Kelon KFR-32GW/UQ-1(K29))</item>
+        <item> 科龙 KFR-35GW/UG-N3(Kelon KFR-35GW/UG-N3)</item>
+        <item> 科龙 KFR-72LW/VGF-N3(Kelon KFR-72LW/VGF-N3)</item>
+        <item> 科龙 KF-23GW/UQ-N3(Kelon KF-23GW/UQ-N3)</item>
+        <item> 科龙 KFR-26GW/VUFDBp-3(Kelon KFR-26GW/VUFDBp-3)</item>
+        <item> 科龙 KFR-72LW/VGF-N3(1)(Kelon KFR-72LW/VGF-N3(1))</item>
+        <item> 科龙 KF-26GW/UF-N3(Kelon KF-26GW/UF-N3)</item>
+        <item> 科龙 KFR-26GW/VGFDBp-3(Kelon KFR-26GW/VGFDBp-3)</item>
+        <item> 科龙 KF-35GW/UQ-N3(Kelon KF-35GW/UQ-N3)</item>
+        <item> 科龙 KFR-26GW/EFVCS3(Kelon KFR-26GW/EFVCS3)</item>
+        <item> 科龙 KFR-50LW/VNFDBP-3(Kelon KFR-50LW/VNFDBP-3)</item>
+        <item> 科龙 KFR-26GW/VGFDBPJ-3(JDXX)(Kelon KFR-26GW/VGFDBPJ-3(JDXX))</item>
+        <item> 科龙 KFR-26GW/VGFDBp-4(Kelon KFR-26GW/VGFDBp-4)</item>
+        <item> 科龙 KFR-72LW/VSFDBP-3(Kelon KFR-72LW/VSFDBP-3)</item>
+        <item> 科龙 KFR-35GW/VRFDBp-2(Kelon KFR-35GW/VRFDBp-2)</item>
+        <item> 科龙 KFR-32GW/UF-N3(Kelon KFR-32GW/UF-N3)</item>
+        <item> 科龙 KFR-26GW/VLFDBp-2(Kelon KFR-26GW/VLFDBp-2)</item>
+        <item> 科龙 KFR-23GW/UG-N3(Kelon KFR-23GW/UG-N3)</item>
+        <item> 科龙 KFR-50LW/EFVPN2(Kelon KFR-50LW/EFVPN2)</item>
+        <item> 科龙 KFR-50LW/VDF-N2(K26)(Kelon KFR-50LW/VDF-N2(K26))</item>
+        <item> 科龙 KFR-35GW/VP-1(K26)(Kelon KFR-35GW/VP-1)</item>
+        <item> 科龙 KFR-35GW/VNFDBp-3-173(Kelon KFR-35GW/VNFDBp-3-173)</item>
+        <item> 科龙 KFR-72LW/VLFDBp-2(Kelon KFR-72LW/VLFDBp-2)</item>
+        <item> 科龙 KFR-50GW/ERVCN3(Kelon KFR-50GW/ERVCN3)</item>
+        <item> 科龙 KFR-50LW/VGF-N3(1)(Kelon KFR-50LW/VGF-N3(1))</item>
+        <item> 科龙 KFR-35GW/VPFDBp-3(Kelon KFR-35GW/VPFDBp-3)</item>
+        <item> 科龙 KFR-35GW/VMJ-2(K19)(Kelon KFR-35GW/VMJ-2(K19))</item>
+        <item> 科龙 KFR-23GW/VP-1(Kelon KFR-23GW/VP-1)</item>
+        <item> 科龙 KFR-23GW/ERVBN3(Kelon KFR-23GW/ERVBN3)</item>
+        <item> 科龙 KFR-26GW/VG-N3(Kelon KFR-26GW/VG-N3)</item>
+        <item> 科龙 KF-26GW/ERVFN2(Kelon KF-26GW/ERVFN2)</item>
+        <item> 科龙 KFR-26GW/VPFDBp-3(Kelon KFR-26GW/VPFDBp-3)</item>
+        <item> 科龙 KFR-26GW/ERVLN2(Kelon KFR-26GW/ERVLN2)</item>
+        <item> 科龙 KFR-26GW/VQFDBp-3(Kelon KFR-26GW/VQFDBp-3)</item>
+        <item> 科龙 KFR-50LW/VKJ-2(K24)(Kelon KFR-50LW/VKJ-2(K24))</item>
+        <item> 科龙 KFR-35GW/UQ-N3(Kelon KFR-35GW/UQ-N3)</item>
+        <item> 科龙 KF-50LW/VKJ-2(K24)(Kelon KF-50LW/VKJ-2(K24))</item>
+        <item> 科龙 KFR-32GW/UG-N3(Kelon KFR-32GW/UG-N3)</item>
+        <item> 科龙 KFR-26GW/UG-N3(Kelon KFR-26GW/UG-N3)</item>
+        <item> 科龙 KFR-35GW/VQFDBp-3(Kelon KFR-35GW/VQFDBp-3)</item>
+        <item> 科龙 KF-26GW/VQFDBp-3(Kelon KF-26GW/VQFDBp-3)</item>
+        <item> 科龙 KF-23GW/UG-N3(Kelon KF-23GW/UG-N3)</item>
+        <item> 科龙 KF-23GW/UQ-1(K18)(Kelon KF-23GW/UQ-1(K18))</item>
+        <item> 科龙 KFR-23GW/VG-N3(Kelon KFR-23GW/VG-N3)</item>
+        <item> 科龙 KF-26GW/UQ-N3(Kelon KF-26GW/UQ-N3)</item>
+        <item> 科龙 KFR-35GW/VGFDBp-3-179W(Kelon KFR-35GW/VGFDBp-3-179W)</item>
+        <item> 科龙 KFR-32GW/VP-1(Kelon KFR-32GW/VP-1)</item>
+        <item> 科龙 KF-26GW/VG-N3(Kelon KF-26GW/VG-N3)</item>
+        <item> 科龙 KFR-26GW/VRFDBp-2(Kelon KFR-26GW/VRFDBp-2)</item>
+        <item> 科龙 KF-23GW/ERVFN2(Kelon KF-23GW/ERVFN2)</item>
+        <item> 科龙 KFR-35GW/EFVDS3(Kelon KFR-35GW/EFVDS3)</item>
+        <item> 科龙 KFR-35GW/VGFDBp-4(Kelon KFR-35GW/VGFDBp-4)</item>
+        <item> 科龙 KF-35GW/VG-1(K27)(Kelon KF-35GW/VG-1(K27))</item>
+        <item> 科龙 KF-35GW/VG-N3(Kelon KF-35GW/VG-N3)</item>
+        <item> 科龙 KFR-35GW/VSFDBP-2(Kelon KFR-35GW/VSFDBP-2)</item>
+        <item> 科龙 KFR-23GW/VG-1(K18)(Kelon KFR-23GW/VG-1(K18))</item>
+        <item> 科龙 KFR-32GW/VG-1(K29)(Kelon KFR-32GW/VG-1(K29))</item>
+        <item> 科龙 KFR-50LW/VGF-N3(Kelon KFR-50LW/VGF-N3)</item>
+        <item> 科龙 KFR-35GW/VLFDBP-3(Kelon KFR-35GW/VLFDBP-3)</item>
+        <item> 科龙 KFR-50GW/UQ-2(Kelon KFR-50GW/UQ-2)</item>
+        <item> 科龙 KFR-32GW/UQ-N3(Kelon KFR-32GW/UQ-N3)</item>
+        <item> 科龙 KFR-32GW/ERVBN3(Kelon KFR-32GW/ERVBN3)</item>
+        <item> 科龙 KFR-72LW/VNFDBP-3(Kelon KFR-72LW/VNFDBP-3)</item>
+        <item> 科龙 KFR-35GW/VPFDBp-3(Kelon KFR-35GW/VPFDBp-3)</item>
+        <item> 科龙 KFR-35GW/VG-1(K27)(Kelon KFR-35GW/VG-1(K27))</item>
+        <item> 科龙 KFR-35GW/VPFDBp-2(Kelon KFR-35GW/VPFDBp-2)</item>
+        <item> 科龙 KFR-26GW/EFVAS4(Kelon KFR-26GW/EFVAS4)</item>
+        <item> 科龙 KFR-26GW/ERVBN3(Kelon KFR-26GW/ERVBN3)</item>
+        <item> 科龙 KFR-26GW/UQ-N3(Kelon KFR-26GW/UQ-N3)</item>
+        <item> 科龙 KFR-23GW/UG-1(a)(Kelon 23GW/UG-1(a))</item>
+        <item> 科龙 KFR-26GW/VGFDBp-3-179W(Kelon KFR-26GW/VGFDBp-3-179W)</item>
+        <item> 科龙 KFR-32GW/UG-1(K29)(Kelon KFR-32GW/UG-1(K29))</item>
+        <item> 科龙 KFR-35GW/UG-1(a)(Kelon 35GW/UG-1(a))</item>
+        <item> 科龙 KFR-50LW/VNFDBp-3-177(Kelon KFR-50LW/VNFDBp-3-177)</item>
+        <item> 科龙 KFR-26GW/UG-1(K26)(Kelon KFR-26GW/UG-1(K26))</item>
+        <item> 科龙 KFR-35GW/VG-N3(Kelon KFR-35GW/VG-N3)</item>
+        <item> 科龙 KFR-26GW/VP-1(Kelon KFR-26GW/VP-1)</item>
+        <item> 科龙 KFR-50LW/VNFDBP-2(Kelon KFR-50LW/VNFDBP-2)</item>
+        <item> 科龙 KFR-32GW/UG-1(a)(Kelon 32GW/UG-1(a))</item>
+        <item> 科龙 KFR-32GW/VG-N3(Kelon KFR-32GW/VG-N3)</item>
+        <item> 科龙 KFR-35GW/VD-1(K27)(Kelon KFR-35GW/VD-1(K27))</item>
+        <item> 科龙 KFR-72LW/VNFDBp-3-177(Kelon KFR-72LW/VNFDBp-3-177)</item>
+        <item> 科龙 KFR-26GW/VDJ-3(Kelon KFR-26GW/VDJ-3)</item>
+        <item> 科龙 KFR-23GW/VPJ-2(K19)(Kelon KFR-23GW/VPJ-2(K19))</item>
+        <item> 科龙 KFR-35GW/UG-1(K26)(Kelon KFR-35GW/UG-1(K26))</item>
+        <item> 科龙 KFR-26GW/VSFDBp-2(Kelon KFR-26GW/VSFDBp-2)</item>
+        <item> 科龙 KFR-35GW/EFVAS4(Kelon KFR-35GW/EFVAS4)</item>
+        <item> 科龙 KFR-50GW/VGJ-2(K29)(Kelon KFR-50GW/VGJ-2(K29))</item>
+        <item> 科龙 KFR-35GW/UG-1(K27)(Kelon KFR-35GW/UG-1(K27))</item>
+        <item> 科龙 KFR-72LW/VNFDBP-2(Kelon KFR-72LW/VNFDBP-2)</item>
+        <item> 科龙 KFR-35GW/ERVBN3(Kelon KFR-35GW/ERVBN3)</item>
+        <item> 科龙 KFR-35GW/VD-E4(Kelon KFR-35GW/VD-E4)</item>
+        <item> 科龙 KFR-35GW/VGFDBPJ-3(Kelon KFR-35GW/VGFDBPJ-3)</item>
+        <item> 科龙 KFR-35GW/VK-2(K16)(Kelon KFR-35GW/VK-2(K16))</item>
+        <item> 科龙 KFR-35GW/VNFDBp-3-174(Kelon KFR-35GW/VNFDBp-3-174)</item>
+        <item> 科龙 KFR-50GW/VG-2(K28)(Kelon KFR-50GW/VG-2(K28))</item>
+        <item> 科龙 KFR-26GW/VNFDBp-3-173(Kelon KFR-26GW/VNFDBp-3-173)</item>
+        <item> 科龙 KF-35GW/UM(Kelon KF-35GW/UM)</item>
+        <item> 科龙 KFR-50GW/VNF-N2(Kelon KFR-50GW/VNF-N2)</item>
+        <item> 科龙 KFR-71LW/NYD(Kelon KFR-71LW/NYD)</item>
+        <item> 科龙 KFR-26GW/UM(Kelon KFR-26GW/UM)</item>
+        <item> 科龙 KFR-72LW/VNF-N2(Kelon KFR-72LW/VNF-N2)</item>
+        <item> 科龙 KFR-71LW/VD-E4(K12)(Kelon KFR-71LW/VD-E4(K12))</item>
+        <item> 科龙 KFR-26GW/UQ(Kelon KFR-26GW/UQ)</item>
+        <item> 科龙 KFR-35GW/VNFDBp-3-175(Kelon KFR-35GW/VNFDBp-3-175)</item>
+        <item> 科龙 KFR-26GW/VNFDBp-3-175(Kelon KFR-26GW/VNFDBp-3-175)</item>
+        <item> 科龙 KF-35GW/VB(Kelon KF-35GW/VB)</item>
+        <item> 科龙 KFR-26GW/VF-1(Kelon KFR-26GW/VF-1)</item>
+        <item> 科龙 KFR-35GW/UM(Kelon KFR-35GW/UM)</item>
+        <item> 科龙 KFR-32GW/UM1(Kelon KFR-32GW/UM1)</item>
+        <item> LG 6711A20038C(LG 6711A20038C)</item>
+        <item> LG 6711A20038Ca(LG 6711A20038Ca)</item>
+        <item> LG 6711A20038Cb(LG 6711A20038Cb)</item>
+        <item> LG 6711A20038Cc(LG 6711A20038Cc)</item>
+        <item> LG 6711A20038Q(LG 6711A20038Q)</item>
+        <item> LG 6711A20038Qa(LG 6711A20038Qa)</item>
+        <item> LG 6711A20038Qb(LG 6711A20038Qb)</item>
+        <item> LG 6711A20038Qc(LG 6711A20038Qc)</item>
+        <item> LG 6711A20088C(LG 6711A20088C)</item>
+        <item> LG 6711A20088Ca(LG 6711A20088Ca)</item>
+        <item> LG 6711A20088Cb(LG 6711A20088Cb)</item>
+        <item> LG 6711A20088Cc(LG 6711A20088Cc)</item>
+        <item> LG AKB73456113(LG AKB73456113)</item>
+        <item> LG AKB73456104(LG AKB73456104)</item>
+        <item> 美的 R51(Midea R51)</item>
+        <item> 美的 R51a(Midea R51a)</item>
+        <item> 美的 R51b(Midea R51b)</item>
+        <item> 美的 R51c(Midea R51c)</item>
+        <item> 美的 R51d(Midea R51d)</item>
+        <item> 美的 R51D-BG(Midea R51D-BG)</item>
+        <item> 美的 R51D-BGa(Midea R51D-BGa)</item>
+        <item> 美的 R51D-BGb(Midea R51D-BGb)</item>
+        <item> 美的 R51D-BGc(Midea R51D-BGc)</item>
+        <item> 美的 R51D-BGd(Midea R51D-BGd)</item>
+        <item> 美的 R51D-C(Midea R51D-C)</item>
+        <item> 美的 R51D-Ca(Midea R51D-Ca)</item>
+        <item> 美的 R51D-Cb(Midea R51D-Cb)</item>
+        <item> 美的 R51D-Cc(Midea R51D-Cc)</item>
+        <item> 美的 R51D-Cd(Midea R51D-Cd)</item>
+        <item> 美的 RN51B/BG-M(Midea RN51B/BG-M)</item>
+        <item> 美的 RN51B/BG-Ma(Midea RN51B/BG-Ma)</item>
+        <item> 美的 RN51B/BG-Mb(Midea RN51B/BG-Mb)</item>
+        <item> 美的 RN51B/BG-Mc(Midea RN51B/BG-Mc)</item>
+        <item> 美的 RN51B/BG-Md(Midea RN51B/BG-Md)</item>
+        <item> 美的 RN51K(Midea RN51K)</item>
+        <item> 美的 RN51Ka(Midea RN51Ka)</item>
+        <item> 美的 RN51Kb(Midea RN51Kb)</item>
+        <item> 美的 RN51Kc(Midea RN51Kc)</item>
+        <item> 美的 RN51Kd(Midea RN51Kd)</item>
+        <item> 美的 RN02C/BG(Midea RN02C/BG)</item>
+        <item> 美的 KFR-35GW/BP2DN1Y-1A(3)(Midea KFR-35GW/BP2DN1Y-1A(3))</item>
+        <item> 美的 RN02D/BG-M(Midea RN02D/BG-M)</item>
+        <item> 美的 KFR-26GW/BP3DN1Y-LC(2)(Midea KFR-26GW/BP3DN1Y-LC(2))</item>
+        <item> 美的 KFR-35GW/BP2DN1Y-IF(3)(Midea KFR-35GW/BP2DN1Y-IF(3))</item>
+        <item> 美的 KFR-72LW/DY-IF(R3)(Midea KFR-72LW/DY-IF(R3))</item>
+        <item> 美的 KFR-51LW/DY-IF(R3)(Midea KFR-51LW/DY-IF(R3))</item>
+        <item> 美的 R05/BG(Midea R05/BG)</item>
+        <item> 美的 R05A/BG(Midea R05A/BG)</item>
+        <item> 美的 R05B/BG(Midea R05B/BG)</item>
+        <item> 美的 KFR-50LW/BP3DN1Y-C(Midea KFR-50LW/BP3DN1Y-C)</item>
+        <item> 美的 RN02A/BG(Midea RN02A/BG)</item>
+        <item> 美的 RN02A/BG-M(Midea RN02A/BG-M)</item>
+        <item> 美的 RN02C/BG-M(Midea RN02C/BG-M)</item>
+        <item> 美的 RN02E/BG(Midea RN02E/BG)</item>
+        <item> 美的 KFR-35GW/BP3DN1Y-LC(2)(Midea KFR-35GW/BP3DN1Y-LC(2))</item>
+        <item> 美的 KFR-26GW/BP3DN1Y-1A(2)(Midea KFR-26GW/BP3DN1Y-1A(2))</item>
+        <item> 美的 KFR-26GW/BP2DN1Y-IF(3)(Midea KFR-26GW/BP2DN1Y-IF(3))</item>
+        <item> 美的 KFR-26GW/BP2DN1Y-GC(3)(Midea KFR-26GW/BP2DN1Y-GC(3))</item>
+        <item> 美的 KFR-26GW/BP2DN1Y-K(3)(Midea KFR-26GW/BP2DN1Y-K(3))</item>
+        <item> 美的 KFR-35GW/BP3DN1Y-L(3)(Midea KFR-35GW/BP3DN1Y-L(3))</item>
+        <item> 美的 KFR-26GW/BP2DN1Y-K(2)(Midea KFR-26GW/BP2DN1Y-K(2))</item>
+        <item> 美的 KFR-32GW/DY-MA(R3)(Midea KFR-32GW/DY-MA(R3))</item>
+        <item> 美的 KF-35GW/Y-MA(R3)(Midea KF-35GW/Y-MA(R3))</item>
+        <item> 美的 R11HG(Midea R11HG)</item>
+        <item> 美的 R11HQ(Midea R11HQ)</item>
+        <item> 美的 R11CG(Midea R11CG)</item>
+        <item> 美的 R11HE(Midea R11HE)</item>
+        <item> 美的 R51(Midea R51)</item>
+        <item> 美的 R51C(Midea R51C)</item>
+        <item> 美的 R51D(Midea R51D)</item>
+        <item> 美的 R51E(Midea R51E)</item>
+        <item> 美的 R51F(Midea R51F)</item>
+        <item> 美的 R51G(Midea R51G)</item>
+        <item> 美的 KF-35GW(Midea KF-35GW)</item>
+        <item> 美的 KF-26GW(Midea KF-26GW)</item>
+        <item> 美的 KF-23GW(Midea KF-23GW)</item>
+        <item> 美的 KFR-32GW(Midea KFR-32GW)</item>
+        <item> 美的 KFR-26T2W(Midea KFR-26T2W)</item>
+        <item> 美的 KFR-35T2W(Midea KFR-35T2W)</item>
+        <item> 美的 KFR-40T2W(Midea KFR-40T2W)</item>
+        <item> 美的 KFR-71T2W(Midea KFR-71T2W)</item>
+        <item> 美的 KFR-72T2W(Midea KFR-72T2W)</item>
+        <item> 美的 RN51F/BG(Midea RN51F/BG)</item>
+        <item> 美的 RN511(Midea RN511)</item>
+        <item> 美的 KFR-65T2W(Midea KFR-65T2W)</item>
+        <item> 美的 R51S(Midea R51S)</item>
+        <item> 美的 KFR-120T2W(Midea KFR-120T2W)</item>
+        <item> 美的 R51R(Midea R51R)</item>
+        <item> 美的 KFR-50T2W(Midea KFR-50T2W)</item>
+        <item> 美的 R51A(Midea R51A)</item>
+        <item> 美的 KFR-26T2W(Midea KFR-26T2W)</item>
+        <item> 美的 R51K(Midea R51K)</item>
+        <item> 美的 KFR-35GW(Midea KFR-35GW)</item>
+        <item> 美的 R51B(Midea R51B)</item>
+        <item> 美的 KFR-QW/SY-E(R3)(Midea KFR-QW/SY-E(R3))</item>
+        <item> 美的 RN51C(Midea RN51C)</item>
+        <item> 美的 KFR-23GW(Midea KFR-23GW)</item>
+        <item> 美的 RN51M(Midea RN51M)</item>
+        <item> 美的 KFR-51LW(Midea KFR-51LW)</item>
+        <item> 美的 RN51F(Midea RN51F)</item>
+        <item> 美的 KF-51LW(Midea KF-51LW)</item>
+        <item> 美的 KF-72LW(Midea KF-72LW)</item>
+        <item> 美的 KFR-35GW/BP3DN1Y-LB(2)(Midea KFR-35GW/BP3DN1Y-LB(2))</item>
+        <item> 美的 KFR-26GW/BP3DN1Y-LB(2)(Midea KFR-26GW/BP3DN1Y-LB(2))</item>
+        <item> 美的 KFR-26GW/BP3DN1Y-KB(1)(Midea KFR-26GW/BP3DN1Y-KB(1))</item>
+        <item> 美的 KFR-26GW/DY-IA(R3)(Midea KFR-26GW/DY-IA(R3))</item>
+        <item> 美的 KFR-51LW/BP2DN1Y-IB(3)(Midea KFR-51LW/BP2DN1Y-IB(3))</item>
+        <item> 美的 KFR-51LW/BP2DN1Y-IE(2)(Midea KFR-51LW/BP2DN1Y-IE(2))</item>
+        <item> 美的 KFR-72LW/DY-IB(R3)(Midea KFR-72LW/DY-IB(R3))</item>
+        <item> 美的 KFR-35GW/BP3DN1Y-KB(1)(Midea KFR-35GW/BP3DN1Y-KB(1))</item>
+        <item> 美的 KFR-51LW/BP2DN1Y-E(3)(Midea KFR-51LW/BP2DN1Y-E(3))</item>
+        <item> 美的 KFR-35GW/BP2DN1Y-L(3)(Midea KFR-35GW/BP2DN1Y-L(3))</item>
+        <item> 美的 KFR-35GW/DY-GC(R3)(Midea KFR-35GW/DY-GC(R3))</item>
+        <item> 美的 KFR-51LW/BP3DN1Y-KF(1)(Midea KFR-51LW/BP3DN1Y-KF(1))</item>
+        <item> 美的 KFR-35GW/DY-IF(R3)(Midea KFR-35GW/DY-IF(R3))</item>
+        <item> 美的 KFR-51LW/DY-IB(R3)(Midea KFR-51LW/DY-IB(R3))</item>
+        <item> 美的 KFR-72LW/BP2DN1Y-IB(3)(Midea KFR-72LW/BP2DN1Y-IB(3))</item>
+        <item> 美的 KFR-23GW/DY-IA(R3)(Midea KFR-23GW/DY-IA(R3))</item>
+        <item> 美的 KFR-32GW/DY-GC(R3)(Midea KFR-32GW/DY-GC(R3))</item>
+        <item> 美的 KFR-51LW/BP3DN1Y-F(2)(Midea KFR-51LW/BP3DN1Y-F(2))</item>
+        <item> 美的 KFR-51LW/BP2DN1Y-H(3)(Midea KFR-51LW/BP2DN1Y-H(3))</item>
+        <item> 美的 KFR-35GW/BP3DN1Y-KA(2)(Midea KFR-35GW/BP3DN1Y-KA(2))</item>
+        <item> 美的 KFR-50GW/DY-IA(R3)(Midea KFR-50GW/DY-IA(R3))</item>
+        <item> 美的 KFR-72LW/DY-GC(E2)(Midea KFR-72LW/DY-GC(E2))</item>
+        <item> 美的 KFR-23GW/DY-GC(R1)(Midea KFR-23GW/DY-GC(R1))</item>
+        <item> 美的 KFR-72LW/BP3DN1Y-KF(1)(Midea KFR-72LW/BP3DN1Y-KF(1))</item>
+        <item> 美的 KFR-72LW/BP2DN1Y-IE(2)(陶瓷白)(Midea KFR-72LW/BP2DN1Y-IE(2)(陶瓷白))</item>
+        <item> 美的 KFR-36GW/DY-JM5(R3)(Midea KFR-36GW/DY-JM5(R3))</item>
+        <item> 美的 KFR-32GW/DY-IA(E1)(Midea KFR-32GW/DY-IA(E1))</item>
+        <item> 美的 KFR-72LW/DY-N(E5)(Midea KFR-72LW/DY-N(E5))</item>
+        <item> 美的 KFR-23GW/DY-GC(R2)(Midea KFR-23GW/DY-GC(R2))</item>
+        <item> 美的 KFR-26GW/DY-GC(E1)(Midea KFR-26GW/DY-GC(E1))</item>
+        <item> 美的 KF-35GW/Y-GC(R3)(Midea KF-35GW/Y-GC(R3))</item>
+        <item> 美的 KFR-23GW/DY-GC(E1)(Midea KFR-23GW/DY-GC(E1))</item>
+        <item> 美的 KFR-26GW/BP2DN1Y-IA(3)(Midea KFR-26GW/BP2DN1Y-IA(3))</item>
+        <item> 美的 KFR-72LW/BP2DN1Y-KE(2)(Midea KFR-72LW/BP2DN1Y-KE(2))</item>
+        <item> 美的 KFR-35GW/BP2DN1Y-IC(3)(Midea KFR-35GW/BP2DN1Y-IC(3))</item>
+        <item> 美的 KFR-32GW/DY-FC(E1)(Midea KFR-32GW/DY-FC(E1))</item>
+        <item> 美的 KF-23GW/Y-FC(R3)(Midea KF-23GW/Y-FC(R3))</item>
+        <item> 美的 KFR-35GW/DY-IA(E1)(Midea KFR-35GW/DY-IA(E1))</item>
+        <item> 美的 KFR-23GW/DY-IF(R3)(Midea KFR-23GW/DY-IF(R3))</item>
+        <item> 美的 KFR-72LW/BP2DN1Y-L(3)(Midea KFR-72LW/BP2DN1Y-L(3))</item>
+        <item> 美的 KFR-35GW/BP2DN1Y-H(3)(Midea KFR-35GW/BP2DN1Y-H(3))</item>
+        <item> 美的 KFR-26GW/BP2DN1Y-M(3)(Midea KFR-26GW/BP2DN1Y-M(3))</item>
+        <item> 美的 KFR-26GW/BP2DN1Y-F(3)(Midea KFR-26GW/BP2DN1Y-F(3))</item>
+        <item> 美的 KFR-51LW/BP2DN1Y-KE(2)(Midea KFR-51LW/BP2DN1Y-KE(2))</item>
+        <item> 美的 KFR-51LW/BP2DN1Y-V(3)A(Midea KFR-51LW/BP2DN1Y-V(3)A)</item>
+        <item> 美的 KFR-35GW/DY-GC(E1)(Midea KFR-35GW/GC-IA(E1))</item>
+        <item> 美的 KFR-26GW/BP2DN1Y-L(3)(Midea KFR-26GW/BP2DN1Y-L(3))</item>
+        <item> 美的 KFR-26GW/BP2DN1Y-H(4)(Midea KFR-26GW/BP2DN1Y-H(4))</item>
+        <item> 美的 KFR-35GW/BP3DN1Y-KE(2)(晶莹白)(Midea KFR-35GW/BP3DN1Y-KE(2)(晶莹白))</item>
+        <item> 美的 KFR-26GW/BP3DN1Y-KE(2)(晶莹白)(Midea KFR-26GW/BP3DN1Y-KE(2)(晶莹白))</item>
+        <item> 美的 KFR-72LW/DY-DC(E2)(Midea KFR-72LW/DY-DC(E2))</item>
+        <item> 美的 KFR-26GW/BP2DN1Y-IC(3)(Midea KFR-26GW/BP2DN1Y-IC(3))</item>
+        <item> 美的 KF-50GW/Y-IA(R2)(Midea KF-50GW/Y-IA(R2))</item>
+        <item> 美的 KFR-35GW/BP2DN1Y-M(3)(Midea KFR-35GW/BP2DN1Y-M(3))</item>
+        <item> 美的 KFR-26GW/DY-IF(R3)(Midea KFR-26GW/DY-IF(R3))</item>
+        <item> 美的 KFR-51LW/DY-JM5(R3)(JDXX)(Midea KFR-51LW/DY-JM5(R3)(JDXX))</item>
+        <item> 美的 KFR-26GW/DY-IB(R3)(Midea KFR-26GW/DY-IB(R3))</item>
+        <item> 美的 KFR-35GW/DY-IA(R3)(Midea KFR-35GW/DY-IA(R3))</item>
+        <item> 美的 KF-35GW/Y-IA(R2)(Midea KF-35GW/Y-IA(R2))</item>
+        <item> 美的 KF-23GW/Y-IA(E1)(Midea KF-23GW/Y-IA(E1))</item>
+        <item> 美的 KF-26GW/Y-IA(R3)(Midea KF-26GW/Y-IA(R3))</item>
+        <item> 美的 KFR-32GW/DY-IF(R3)(Midea KFR-32GW/DY-IF(R3))</item>
+        <item> 美的 KFR-23GW/DY-E3(E1)(Midea KFR-23GW/DY-E3(E1))</item>
+        <item> 美的 KFR-23GW/DY-FC(E1)(Midea KFR-23GW/DY-FC(E1))</item>
+        <item> 美的 KFR-35GW/BP3DN1Y-D(1)(Midea KFR-35GW/BP3DN1Y-D(1))</item>
+        <item> 美的 KFR-51LW/BP2DN1Y-F(3)(Midea KFR-51LW/BP2DN1Y-F(3))</item>
+        <item> 美的 KFR-51LW/BP2DN1Y-L(3)(Midea KFR-51LW/BP2DN1Y-L(3))</item>
+        <item> 美的 KFR-35GW/BP2DN1Y-E(3)(Midea KFR-35GW/BP2DN1Y-E(3))</item>
+        <item> 美的 KFR-26GW/BP2DN1Y-JM2(3)(JDXX)(Midea KFR-26GW/BP2DN1Y-JM2(3)(JDXX))</item>
+        <item> 美的 KFR-72LW/BP2DN1Y-K(3)(Midea KFR-72LW/BP2DN1Y-K(3))</item>
+        <item> 美的 KFR-35W/DY-HA(E1)(Midea KFR-35W/DY-HA(E1))</item>
+        <item> 美的 KFR-23W/DY-HA(E1)(Midea KFR-23W/DY-HA(E1))</item>
+        <item> 美的 KF-23GW/Y-IA(R3)(Midea KF-23GW/Y-IA(R3))</item>
+        <item> 美的 KFR-23GW/DY-IA(E1)(Midea KFR-23GW/DY-IA(E1))</item>
+        <item> 美的 KFR-35GW/BP2DN1Y-E(3)(Midea KFR-35GW/BP2DN1Y-E(3))</item>
+        <item> 美的 KFR-26GW/DY-JE(E2)E(Midea KFR-26GW/DY-JE(E2)E)</item>
+        <item> 美的 KFR-35GW/DY-FC(E1)(Midea KFR-35GW/DY-FC(E1))</item>
+        <item> 美的 KFR-26GW/DY-GC(R3)(Midea KFR-26GW/DY-GC(R3))</item>
+        <item> 美的 KFR-51LW/DY-IA(R3)(Midea KFR-51LW/DY-IA(R3))</item>
+        <item> 美的 KF-72LW/Y-IB(R3)(Midea KF-72LW/Y-IB(R3))</item>
+        <item> 美的 KFR-32GW/DY-IB(R3)(Midea KFR-32GW/DY-IB(R3))</item>
+        <item> 美的 KF-26GW/Y-IB(R3)(Midea KF-26GW/Y-IB(R3))</item>
+        <item> 美的 KFR-32GW/DY-P(E2)(Midea KFR-32GW/DY-P(E2))</item>
+        <item> 美的 KFR-72LW/BP3DN1Y-IB(3)(Midea KFR-72LW/BP3DN1Y-IB(3))</item>
+        <item> 美的 KFR-51LW/DY-MB(R3)(Midea KFR-51LW/DY-MB(R3))</item>
+        <item> 美的 KFR-72GW/DY-IA(R3)(Midea KFR-72GW/DY-IA(R3))</item>
+        <item> 美的 KF-23GW/Y-GC(R3)(Midea KF-23GW/Y-GC(R3))</item>
+        <item> 美的 KFR-32GW/BP2DN1Y-IA(3)(Midea KFR-32GW/BP2DN1Y-IA(3))</item>
+        <item> 美的 KFR-33GW/DY-JM5(R3)(JDXX)(Midea KFR-33GW/DY-JM5(R3)(JDXX))</item>
+        <item> 美的 KF-50GW/Y-IA(R3)(Midea KF-50GW/Y-IA(R3))</item>
+        <item> 美的 KFR-26GW/BP2DN1Y-E(3)(Midea KFR-26GW/BP2DN1Y-E(3))</item>
+        <item> 美的 KFR-23GW/DY-IB(R1)(Midea KFR-23GW/DY-IB(R1))</item>
+        <item> 美的 KFR-32GW/BP2DN1Y-L(3)(Midea KFR-32GW/BP2DN1Y-L(3))</item>
+        <item> 美的 KFR-26GW/BP3DN1Y-L(3)(Midea KFR-26GW/BP3DN1Y-L(3))</item>
+        <item> 美的 KFR-51LW/DY-IB(R2)(Midea KFR-51LW/DY-IB(R2))</item>
+        <item> 美的 KFR-51LW/DY-GC(R3)(Midea KFR-51LW/DY-GC(R3))</item>
+        <item> 美的 KFR-35GW/BP2DN1Y-G(3)(Midea KFR-35GW/BP2DN1Y-G(3))</item>
+        <item> 美的 KFR-35GW/BP2DN1Y-JM5(3)(JDXX)(Midea KFR-35GW/BP2DN1Y-JM5(3)(JDXX))</item>
+        <item> 美的 KFR-51LW/DY-MA(R3)(Midea KFR-51LW/DY-MA(R3))</item>
+        <item> 美的 KFR-72LW/DY-GC(R3)(Midea KFR-72LW/DY-GC(R3))</item>
+        <item> 美的 KFR-23GW/DY-GC(R3)(Midea KFR-23GW/DY-GC(R3))</item>
+        <item> 美的 KFR-26GW/BP3DN1Y-C(Midea KFR-26GW/BP3DN1Y-C)</item>
+        <item> 美的 KFR-26GW/BP2DN1Y-L(2)(Midea KFR-26GW/BP2DN1Y-L(2))</item>
+        <item> 美的 KF-26GW/Y-GC(R3)(Midea KF-26GW/Y-GC(R3))</item>
+        <item> 美的 KFR-32GW/DY-E3(E2)(Midea KFR-32GW/DY-E3(E2))</item>
+        <item> 美的 KFR-35GW/DY-E3(E2)(Midea KFR-35GW/DY-E3(E2))</item>
+        <item> 美的 KF-72LW/Y-E2(R2)(Midea KF-72LW/Y-E2(R2))</item>
+        <item> 美的 KFR-32GW/DY-E2(E1)(Midea KFR-32GW/DY-E2(E1))</item>
+        <item> 美的 KFR-72LW/BP2DY-E(Midea KFR-72LW/BP2DY-E)</item>
+        <item> 美的 KFR-51LW/DY-GC(R2)(Midea KFR-51LW/DY-GC(R2))</item>
+        <item> 美的 KFR-35GW/BP2DY-E+(4)(Midea KFR-35GW/BP2DY-E+(4))</item>
+        <item> 美的 KF-23GW/Y-FC(E1)(Midea KF-23GW/Y-FC(E1))</item>
+        <item> 美的 KFR-26GW/BP2DY-E+(4)(Midea KFR-26GW/BP2DY-E+(4))</item>
+        <item> 美的 KF-35GW/Y-FC(E2)(Midea KF-35GW/Y-FC(E2))</item>
+        <item> 美的 KFR-51LW/BP2DN1Y-V(3)(Midea KFR-51LW/BP2DN1Y-V(3))</item>
+        <item> 美的 KFR-26GW/BP3DN1Y-F(2)(Midea KFR-26GW/BP3DN1Y-F(2))</item>
+        <item> 美的 KFR-51LW/DY-P(E2)(Midea KFR-51LW/DY-P(E2))</item>
+        <item> 美的 KFR-72LW/DY-X(E2)(Midea KFR-72LW/DY-X(E2))</item>
+        <item> 美的 KFR-35Q1W/DY-N(E2)(Midea KFR-35Q1W/DY-N(E2))</item>
+        <item> 美的 KFR-26GW/BP2DN1Y-H(3)(Midea KFR-26GW/BP2DN1Y-H(3))</item>
+        <item> 美的 KFR-32GW/DY-J(E5)(Midea KFR-32GW/DY-J(E5))</item>
+        <item> 美的 KFR-32GW/DY-GC(E1)(Midea KFR-32GW/DY-GC(E1))</item>
+        <item> 美的 KFR-26GW/BP2DY-M(4)(Midea KFR-26GW/BP2DY-M(4))</item>
+        <item> 美的 KFR-35GW/BP3DN1Y-D(1)A(Midea KFR-35GW/BP3DN1Y-D(1)A)</item>
+        <item> 美的 KFR-72LW/BP2DY-H(4)(Midea KFR-72LW/BP2DY-H(4))</item>
+        <item> 美的 KFR-35GW/BP2DY-M(4)(Midea KFR-35GW/BP2DY-M(4)) </item>
+        <item> 美的 KFR-35GW/DY-J(E5)(Midea KFR-35GW/DY-J(E5))</item>
+        <item> 美的 KFR-72LW/DY-GA(E5)(Midea KFR-72LW/DY-GA(E5))</item>
+        <item> 美的 KFR-32GW/BP2DY-M(4)(Midea KFR-32GW/BP2DY-M(4))</item>
+        <item> 美的 KFR-51LW/DY-X(E2)(Midea KFR-51LW/DY-X(E2))</item>
+        <item> 美的 KFR-32W/DY-HA(E1)(Midea KFR-32W/DY-HA(E1))</item>
+        <item> 美的 KFR-26GW/BP2DY-G(4)(Midea KFR-26GW/BP2DY-G(4))</item>
+        <item> 美的 KFR-32GW/DY-K(E5)(Midea KFR-32GW/DY-K(E5))</item>
+        <item> 美的 KFR-26GW/BP2DY-H(4)(Midea KFR-26GW/BP2DY-H(4))</item>
+        <item> 美的 KFR-26GW/BP3DY-F(3)(Midea KFR-26GW/BP3DY-F(3))</item>
+        <item> 美的 KFR-51LW/DY-J(E5)(Midea KFR-51LW/DY-J(E5))</item>
+        <item> 美的 KFR-120LW/SDY-GA(E5)(Midea KFR-120LW/SDY-GA(E5))</item>
+        <item> 美的 KFR-23GW/DY-X(E2)(Midea KFR-23GW/DY-X(E2))</item>
+        <item> 美的 KF-35GW/Y-E2(E2)(Midea KF-35GW/Y-E2(E2))</item>
+        <item> 美的 KFR-35GW/DY-T3(E)(Midea KFR-35GW/DY-T3(E))</item>
+        <item> 美的 KFR-26GW/BP2DY-E(Midea KFR-26GW/BP2DY-E)</item>
+        <item> 美的 KFR-23GW/DY-X(E5)(Midea KFR-23GW/DY-X(E5))</item>
+        <item> 美的 KFR-75LW/DY-Q(Midea KFR-75LW/DY-Q)</item>
+        <item> 美的 KFR-46LW/DY-X(E5)(Midea KFR-46LW/DY-X(E5))</item>
+        <item> 美的 KFR-32GW/DY-A(E5)(Midea KFR-32GW/DY-A(E5))</item>
+        <item> 美的 KFR-35GW/DY-GA(E5)(Midea KFR-35GW/DY-GA(E5))</item>
+        <item> 美的 KFR-43LW/DY-GA(E5)(Midea KFR-43LW/DY-GA(E5))</item>
+        <item> 美的 KFR-51LW/DY-W(E2)(Midea KFR-51LW/DY-W(E2))</item>
+        <item> 美的 KFR-72LW/DY-NA(E5)(Midea KFR-72LW/DY-NA(E5))</item>
+        <item> 美的 KFR-35GW/BP2DY-H(4)(Midea KFR-35GW/BP2DY-H(4))</item>
+        <item> 美的 KFR-26GW/DY-J(E5)(Midea KFR-26GW/DY-J(E5))</item>
+        <item> 美的 KFR-51LW/DY-JN(E3)(Midea KFR-51LW/DY-JN(E3))</item>
+        <item> 美的 KFR-51LW/DY-JH(E3)(Midea KFR-51LW/DY-JH(E3))</item>
+        <item> 美的 KFR-26GW/DY-P(E2)(Midea KFR-26GW/DY-P(E2))</item>
+        <item> 美的 KFR-51LW/DY-DC(E5)(Midea KFR-51LW/DY-DC(E5))</item>
+        <item> 美的 KFR-51LW/DY-E3(E3)(Midea KFR-51LW/DY-E3(E3))</item>
+        <item> 美的 KF-23GW/Y-GC(E1)(Midea KF-23GW/Y-GC(E1))</item>
+        <item> 美的 KFR-72LW/DY-HA(R2)(Midea KFR-72LW/DY-HA(R2))</item>
+        <item> 美的 KFR-72LW/DY-JA(E5)(Midea KFR-72LW/DY-JA(E5))</item>
+        <item> 美的 KFR-51LW/DUY-V(Midea KFR-51LW/DUY-V)</item>
+        <item> 美的 KFR-50LW/DY-S2(Midea KFR-50LW/DY-S2)</item>
+        <item> 美的 KFR-71LW/SDY-S3(Midea KFR-71LW/SDY-S3)</item>
+        <item> 美的 KFR-43LW/H1DY(Midea KFR-43LW/H1DY)</item>
+        <item> 美的 KFR-120LW/K2SDY(Midea KFR-120LW/K2SDY)</item>
+        <item> 美的 KFR-35GW/DY-N(E5)(Midea KFR-35GW/DY-N(E5))</item>
+        <item> 美的 KFR-35GW/DY-K(E5)(Midea KFR-35GW/DY-K(E5))</item>
+        <item> 美的 KF-26GW/BP2Y-M(4)(Midea KF-26GW/BP2Y-M(4))</item>
+        <item> 美的 KFR-32GW/BP2DY-G(4)(Midea KFR-32GW/BP2DY-G(4))</item>
+        <item> 美的 KFR-35GW/BP2DY-G(4)(Midea KFR-35GW/BP2DY-G(4))</item>
+        <item> 美的 KFR-23GW/DY-T3(E)(Midea KFR-23GW/DY-T3(E))</item>
+        <item> 美的 KFR-51LW/DUYP(B)-Q2(Midea KFR-51LW/DUYP(B)-Q2)</item>
+        <item> 美的 KFR-32GW/DUYP-Q2(Midea KFR-32GW/DUYP-Q2)</item>
+        <item> 美的 KFR-23GW/DUYP-Q2(Midea KFR-23GW/DUYP-Q2)</item>
+        <item> 美的 KFR-72LW/DUY-V(Midea KFR-72LW/DUY-V)</item>
+        <item> 美的 KFR-72LW/DY-J(E5)(Midea KFR-72LW/DY-J(E5))</item>
+        <item> 美的 KFR-23GW/DY-J(E5)(Midea KFR-23GW/DY-J(E5))</item>
+        <item> 美的 KFR-32GW/DY-X(E2)(Midea KFR-32GW/DY-X(E2))</item>
+        <item> 美的 KFR-23GW/DY-A8(E2)(Midea KFR-23GW/DY-A8(E2))</item>
+        <item> 美的 KFR-26GW/DY-X(E2)(Midea KFR-26GW/DY-X(E2))</item>
+        <item> 美的 KFR-26GW/DY-A8(E2)(Midea KFR-26GW/DY-A8(E2))</item>
+        <item> 美的 KFR-32GW/DY-A8(E2)(Midea KFR-32GW/DY-A8(E2))</item>
+        <item> 美的 KFR-72LW/SDY-X(E2)(Midea KFR-72LW/SDY-X(E2))</item>
+        <item> 美的 KFR-61LW/DY-JA(E5)(Midea KFR-61LW/DY-JA(E5))</item>
+        <item> 美的 KFR-51LW/DY-JA(E5)(Midea KFR-51LW/DY-JA(E5))</item>
+        <item> 美的 KFR-32GW/DY-KC(E5)(Midea KFR-32GW/DY-KC(E5))</item>
+        <item> 美的 KF-72LW/Y-JA(E5)(Midea KF-72LW/Y-JA(E5))</item>
+        <item> 美的 KFR-35GW/DY-JN(E3)(Midea KFR-35GW/DY-JN(E3))</item>
+        <item> 美的 KF-46LW/Y-JN(E3)(Midea KF-46LW/Y-JN(E3))</item>
+        <item> 美的 KFR-46LW/DY-JN(E3)(Midea KFR-46LW/DY-JN(E3))</item>
+        <item> 美的 KF-51LW/Y-JN(E3)(Midea KF-51LW/Y-JN(E3))</item>
+        <item> 美的 KF-23GW/Y-JN(E3)(Midea KF-23GW/Y-JN(E3))</item>
+        <item> 美的 KFR-23GW/DY-JN(E3)(Midea KFR-23GW/DY-JN(E3))</item>
+        <item> 美的 KF-26GW/Y-JN(E3)(Midea KF-26GW/Y-JN(E3))</item>
+        <item> 美的 KFR-26GW/DY-JH(E3)(Midea KFR-26GW/DY-JH(E3))</item>
+        <item> 美的 KF-32GW/Y-JH(E3)(Midea KF-32GW/Y-JH(E3))</item>
+        <item> 美的 KFR-32GW/DY-JH(E3)(Midea KFR-32GW/DY-JH(E3))</item>
+        <item> 美的 KF-35GW/Y-JH(E3)(Midea KF-35GW/Y-JH(E3))</item>
+        <item> 美的 KFR-35GW/DY-JH(E3)(Midea KFR-35GW/DY-JH(E3))</item>
+        <item> 美的 KF-46LW/Y-JH(E3)(Midea KF-46LW/Y-JH(E3))</item>
+        <item> 美的 KFR-46LW/DY-JH(E3)(Midea KFR-46LW/DY-JH(E3))</item>
+        <item> 美的 KF-51LW/Y-JH(E3)(Midea KF-51LW/Y-JH(E3))</item>
+        <item> 美的 KF-32GW/Y-CF(E5)(Midea KF-32GW/Y-CF(E5))</item>
+        <item> 美的 KFR-23GW/DY-K8(E3)(Midea KFR-23GW/DY-K8(E3))</item>
+        <item> 美的 KFR-26GW/DY-K8(E3)(Midea KFR-26GW/DY-K8(E3))</item>
+        <item> 美的 KFR-23GW/DY-J(E3)(Midea KFR-23GW/DY-J(E3))</item>
+        <item> 美的 KFR-26GW/DY-J(E3)(Midea KFR-26GW/DY-J(E3))</item>
+        <item> 美的 KF-30GW/Y-J(E3)(Midea KF-30GW/Y-J(E3))</item>
+        <item> 美的 KFR-30GW/DY-J(E3)(Midea KFR-30GW/DY-J(E3))</item>
+        <item> 美的 KF-23GW/Y-JN(E3)(Midea KF-23GW/Y-JN(E3))</item>
+        <item> 美的 KFR-23GW/Y-JN(E3)(Midea KFR-23GW/Y-JN(E3))</item>
+        <item> 美的 KF-26GW/Y-JN(E3)(Midea KF-26GW/Y-JN(E3))</item>
+        <item> 美的 KFR-26GW/DY-JN(E3)(Midea KFR-26GW/DY-JN(E3))</item>
+        <item> 美的 KFR-32GW/DY-JN(E3)(Midea KFR-32GW/DY-JN(E3))</item>
+        <item> 美的 KFR-33GW/DY-JN(E3)(Midea KFR-33GW/DY-JN(E3))</item>
+        <item> 美的 KFR-35GW/DY-E2(E2)(Midea KFR-35GW/DY-E2(E2))</item>
+        <item> 美的 KFR-32GW/DY-XC(E5)(Midea KFR-32GW/DY-XC(E5))</item>
+        <item> 美的 KF-35GW/Y-K(E4)(Midea KF-35GW/Y-K(E4))</item>
+        <item> 美的 KF-50GW/Y-K(E5)(Midea KF-50GW/Y-K(E5))</item>
+        <item> 美的 KF-23GW/Y-X(E5)(Midea KF-23GW/Y-X(E5))</item>
+        <item> 美的 KF-72LW/Y-XA(E5)(Midea KF-72LW/Y-XA(E5))</item>
+        <item> 美的 KF-35GW/Y-H(E5)(Midea KF-35GW/Y-H(E5))</item>
+        <item> 美的 KF-23GW/Y-GA(E5)(Midea KF-23GW/Y-GA(E5))</item>
+        <item> 美的 KF-35GW/Y-GA(E5)(Midea KF-35GW/Y-GA(E5))</item>
+        <item> 美的 KF-35GW/Y-E2(E1)(Midea KF-35GW/Y-E2(E1))</item>
+        <item> 美的 KFR-26GW/BP2DN1Y-W(Midea KFR-26GW/BP2DN1Y-W)</item>
+        <item> 美的 KFR-26GW/DY-V2(E2)(Midea KFR-26GW/DY-V2(E2))</item>
+        <item> 美的 KFR-36GW/DY-G(E4)(Midea KFR-36GW/DY-G(E4))</item>
+        <item> 美的 KFR-26GW/DY-GA(E5)(Midea KFR-26GW/DY-GA(E5))</item>
+        <item> 美的 KFR-72LW/DY-G(E5)(Midea KFR-72LW/DY-G(E5))</item>
+        <item> 美的 KFR-72LW/DY-V2(E2)(Midea KFR-72LW/DY-V2(E2))</item>
+        <item> 美的 KFR-72LW/DY-XA(E5)(Midea KFR-72LW/DY-XA(E5))</item>
+        <item> 美的 KFR-26GW/BPY-R1(Midea KFR-26GW/BPY-R1)</item>
+        <item> 美的 KFR-33GW/DUY-V(Midea KFR-33GW/DUY-V)</item>
+        <item> 美的 KFR-22GW/DY-Z(Midea KFR-22GW/DY-Z)</item>
+        <item> 美的 KFR-23GW/DUY-V(Midea KFR-23GW/DUY-V)</item>
+        <item> 美的 KFR-32GW/DUYP-Q1(Midea KFR-32GW/DUYP-Q1)</item>
+        <item> 美的 KFR-32GW/DY-Z(Midea KFR-32GW/DY-Z)</item>
+        <item> 美的 KFR-26GW/11DY(Midea KFR-26GW/11DY)</item>
+        <item> 美的 KFR-50GW/11DY(Midea KFR-50GW/11DY)</item>
+        <item> 美的 KFR-32GW/DUPY-Q1(Midea KFR-32GW/DUPY-Q1)</item>
+        <item> 美的 KFR-61LW/DUYH-Q1(Midea KFR-61LW/DUYH-Q1)</item>
+        <item> 美的 KFR-71LW/DUYH-Q1(Midea KFR-71LW/DUYH-Q1)</item>
+        <item> 美的 KFR-71LW/K2SDY(Midea KFR-71LW/K2SDY)</item>
+        <item> 美的 KFR-61LW/DY-Q(Midea KFR-61LW/DY-Q)</item>
+        <item> 三凌 三凌MITSUBISHI(Sanling EIectricaI 三凌MITSUBISHI)</item>
+        <item> 三凌 三凌MITSUBISHIa(Sanling EIectricaI 三凌MITSUBISHIa)</item>
+        <item> 三凌 三凌MITSUBISHIb(Sanling EIectricaI 三凌MITSUBISHIb)</item>
+        <item> 三凌 三凌MITSUBISHIc(Sanling EIectricaI 三凌MITSUBISHIc)</item>
+        <item> 三凌 三凌MITSUBISHId(Sanling EIectricaI 三凌MITSUBISHId)</item>
+        <item> 三凌 三凌MITSUBISHIe(Sanling EIectricaI 三凌MITSUBISHIe)</item>
+        <item> 三星 ARC-1405(Samsung  ARC-1405)</item>
+        <item> 三星 ARC-1405a(Samsung  ARC-1405a)</item>
+        <item> 三星 ARC-410(Samsung  ARC-410)</item>
+        <item> 三星 ARC-410a(Samsung  ARC-410a)</item>
+        <item> 三星 ARH-460(Samsung  ARH-460)</item>
+        <item> 三星 ARH-460a(Samsung  ARH-460a)</item>
+        <item> 三星 DB63-00830A(Samsung  DB63-00830A)</item>
+        <item> 松下 A75C2552(Panasonic  A75C2552)</item>
+        <item> 松下 A75C2552a(Panasonic  A75C2552a)</item>
+        <item> 松下 A75C2552b(Panasonic  A75C2552b)</item>
+        <item> 松下 A75C2552c(Panasonic  A75C2552c)</item>
+        <item> 松下 A75C2552d(Panasonic  A75C2552d)</item>
+        <item> 松下 A75C3184(Panasonic  A75C3184)</item>
+        <item> 松下 CZ-RWSK2(Panasonic  CZ-RWSK2)</item>
+        <item> TCL TCL-01B(TCL  TCL-01B)</item>
+        <item> TCL TCL-01Ba(TCL  TCL-01Ba)</item>
+        <item> TCL TCL-01Bb(TCL  TCL-01Bb)</item>
+        <item> TCL TCL-01Bc(TCL  TCL-01Bc)</item>
+        <item> TCL TCL-01Bd(TCL  TCL-01Bd)</item>
+        <item> TCL TCL-01Be(TCL  TCL-01Be)</item>
+        <item> TCL TCL-01Bf(TCL  TCL-01Bf)</item>
+        <item> TCL TCL-01Bg(TCL  TCL-01Bg)</item>
+        <item> TCL TCL-03(TCL TCL-03)</item>
+        <item> TCL KFR-32GW(TCL KFR-32GW)</item>
+        <item> TCL KFR-23GW/AA(TCL KFR-23GW/AA)</item>
+        <item> TCL KFRD-25GW/AA(TCL KFRD-25GW/AA)</item>
+        <item> TCL KFR-25GW/D020(TCL KFR-25GW/D020)</item>
+        <item> TCL KF-26GW(TCL KF-26GW)</item>
+        <item> TCL KFR-25GW(TCL KFR-25GW)</item>
+        <item> TCL KFRD-25GW(TCL KFRD-25GW)</item>
+        <item> TCL GYKQ-03(TCL GYKQ-03)</item>
+        <item> TCL KFR-23GWE(TCL KFR-23GWE)</item>
+        <item> TCL TCL-01(TCL TCL-01)</item>
+        <item> TCL KT-TL1(TCL KT-TL1)</item>
+        <item> TCL KFRd-52LW/AL22(TCL KFRd-52LW/AL22)</item>
+        <item> TCL KFRd-32GW/DR22(TCL KFRd-32GW/DR22)</item>
+        <item> TCL KFRd-35GW/BR22(TCL KFRd-35GW/BR22)</item>
+        <item> TCL KFRd-35GW/BH43(TCL KFRd-35GW/BH43)</item>
+        <item> TCL KFRd-25GW/FC23(TCL KFRd-25GW/FC23)</item>
+        <item> TCL KFRd-35GW/FC23(TCL KFRd-35GW/FC23)</item>
+        <item> TCL KFRd-35GW/DR22(TCL KFRd-35GW/DR22)</item>
+        <item> TCL KFRd-50GW/BR22(TCL KFRd-50GW/BR22)</item>
+        <item> TCL KFRd-35GW/BK2(TCL KFRd-35GW/BK2)</item>
+        <item> TCL KFRd-25GW/BK2(TCL KFRd-25GW/BK2)</item>
+        <item> TCL KF-25GW/FC23(TCL KF-25GW/FC23)</item>
+        <item> TCL KFRd-32GW/BK2(TCL KFRd-32GW/BK2)</item>
+        <item> TCL KFRD-32GW/G4(TCL KFRD-32GW/G4)</item>
+        <item> TCL KFRd-25GW/DR22(TCL KFRd-25GW/DR22)</item>
+        <item> TCL KFRd-71LW/K(TCL KFRd-71LW/K)</item>
+        <item> TCL KFRd-35GW/C(TCL KFRd-35GW/C)</item>
+        <item> TCL KFRD-32GW/N3(TCL KFRD-32GW/N3)</item>
+        <item> TCL KFRd-25GW/V1(TCL KFRd-25GW/V1)</item>
+        <item> TCL KFRd-32GW/BH22(TCL KFRd-32GW/BH22)</item>
+        <item> TCL KFRd-52LW/AL(TCL KFRd-52LW/AL)</item>
+        <item> TCL KFRd-35GW/BR(TCL KFRd-35GW/BR)</item>
+        <item> TCL KFRd-35GW/BU(TCL KFRd-35GW/BU)</item>
+        <item> TCL KFRD-23GW/K3(TCL KFRD-23GW/K3)</item>
+        <item> TCL KFRD-25GW/G4(TCL KFRD-25GW/G4)</item>
+        <item> TCL KFRD-25GW/M1(TCL KFRD-25GW/M1)</item>
+        <item> 夏普 A589JB(Sharp  A589JB)</item>
+        <item> 夏普 A589JBa(Sharp  A589JBa)</item>
+        <item> 夏普 A589JBb(Sharp  A589JBb)</item>
+        <item> 夏普 AY-36JA(Sharp  AY-36JA)</item>
+        <item> 夏普 AY-36JAa(Sharp  AY-36JAa)</item>
+        <item> 夏普 AY-36JAb(Sharp  AY-36JAb)</item>
+        <item> 夏普 AY-36KA(Sharp  AY-36KA)</item>
+        <item> 夏普 AY-36KAa(Sharp  AY-36KAa)</item>
+        <item> 夏普 AY-36KAb(Sharp  AY-36KAb)</item>
+        <item> 夏普 SG11D 2644(Sharp  SG11D 2644)</item>
+        <item> 夏普 A669JBEZ(Sharp  A669JBEZ)</item>
+        <item> 新科 KT-SC2(Shinco  KT-SC2)</item>
+        <item> 新科 KT-SC2a(Shinco  KT-SC2a)</item>
+        <item> 新科 KT-SC2b(Shinco  KT-SC2b)</item>
+        <item> 新科 KT-SC3(Shinco  KT-SC3)</item>
+        <item> 新科 KT-SC3a(Shinco  KT-SC3a)</item>
+        <item> 新科 KT-SC3b(Shinco  KT-SC3b)</item>
+        <item> 新科 QD-SC2(Shinco  QD-SC2)</item>
+        <item> 新科 QD-SC2a(Shinco  QD-SC2a)</item>
+        <item> 新科 QD-SC2b(Shinco  QD-SC2b)</item>
+        <item> 新科 SK-12(Shinco  SK-12)</item>
+        <item> 新科 SK-12a(Shinco  SK-12a)</item>
+        <item> 新科 SK-12b(Shinco  SK-12b)</item>
+        <item> 新科 KT-SC3(Shinco KT-SC3)</item>
+        <item> 新科 QD-SC2(Shinco QD-SC2)</item>
+        <item> 新科 XK-12(Shinco XK-12)</item>
+        <item> 新科 KT-SC2(Shinco KT-SC2)</item>
+        <item> 新科 KT-SC1(Shinco KT-SC1)</item>
+        <item> 新科 XK-11(Shinco XK-11)</item>
+        <item> 新科 KFR-35GWL(Shinco KFR-35GWL)</item>
+        <item> 新科 KFRD-25GWPCN1(SN-11月光白)(Shinco KFRD-25GWPCN1(SN-11月光白))</item>
+        <item> 扬子 YAIR扬子(Yangzi  YAIR扬子)</item>
+        <item> 扬子 YAIR扬子a(Yangzi  YAIR扬子a)</item>
+        <item> 志高 DH/JG-03(CHigo  DH/JG-03)</item>
+        <item> 志高 DH/JG-03a(CHigo  DH/JG-03a)</item>
+        <item> 志高 DH/JG-03b(CHigo  DH/JG-03b)</item>
+        <item> 志高 DH/JG-03c(CHigo  DH/JG-03c)</item>
+        <item> 志高 DH/JG-03d(CHigo  DH/JG-03d)</item>
+        <item> 志高 DH/JG-03e(CHigo  DH/JG-03e)</item>
+        <item> 志高 DH/JG-03f(CHigo  DH/JG-03f)</item>
+        <item> 志高 DH/JG-03g(CHigo  DH/JG-03g)</item>
+        <item> 志高 DH/JG-03h(CHigo  DH/JG-03h)</item>
+        <item> 志高 KT-CG4(CHigo  KT-CG4)</item>
+        <item> 志高 KT-CG4a(CHigo  KT-CG4a)</item>
+        <item> 志高 YT-01(CHigo  YT-01)</item>
+        <item> 志高 YT-01a(CHigo  YT-01a)</item>
+        <item> 志高 ZH/LW-03(CHigo  ZH/LW-03)</item>
+        <item> 志高 ZH/LW-03a(CHigo  ZH/LW-03a)</item>
+        <item> 志高 ZH/LW-03b(CHigo  ZH/LW-03b)</item>
+        <item> 志高 ZH/LW-03c(CHigo  ZH/LW-03c)</item>
+        <item> 志高 ZH/LW-03d(CHigo  ZH/LW-03d)</item>
+        <item> 志高 ZH/LW-03e(CHigo  ZH/LW-03e)</item>
+        <item> 志高 ZH/TT-01(CHigo  ZH/TT-01)</item>
+        <item> 志高 ZH/TT-01a(CHigo  ZH/TT-01a)</item>
+        <item> 艾普顿 YB2FA(APTON YB2FA)</item>
+        <item> 艾普顿 YB2FA-1(APTON YB2FA-1)</item>
+        <item> 志高 KFR-35GW/C96+N3(Chigo KFR-35GW/C96+N3)</item>
+        <item> 志高 KFR-36GW/ABP119+3A(Chigo KFR-36GW/ABP119+3A)</item>
+        <item> 志高 ZH/TT-01(Chigo ZH/TT-01)</item>
+        <item> 志高 ZH/JT-03(Chigo ZH/JT-03)</item>
+        <item> 志高 ZH/JT-03-B(Chigo ZH/JT-03-B)</item>
+        <item> 志高 KFR-51LW/B(E36A)+1(Chigo KFR-51LW/B(E36A)+1)</item>
+        <item> 志高 KFR-36GW/ABP117+3A(Chigo KFR-36GW/ABP117+3A)</item>
+        <item> 志高 KFR-26GW/BBP89+3A(Chigo KFR-26GW/BBP89+3A)</item>
+        <item> 志高 KFR-51LW/C17+N2(Chigo KFR-51LW/C17+N2)</item>
+        <item> 志高 KFR-36GW/ABP123+3A(Chigo KFR-36GW/ABP123+3A)</item>
+        <item> 志高 KFR-51LW/B38B+N2(Chigo KFR-51LW/B38B+N2)</item>
+        <item> 志高 KFR-35GW/MD(M89A)+1(Chigo KFR-36GW/ABP123+3A)</item>
+        <item> 志高 KFR-36GW/ABP89+3A(Chigo KFR-36GW/ABP89+3A)</item>
+        <item> 志高 KF-25GW/A107+N2(Chigo KF-25GW/A107+N2)</item>
+        <item> 志高 KFR-51LW/C36+N3(Chigo KFR-51LW/C36+N3)</item>
+        <item> 志高 KFR-51LW/C36+N2(Chigo KFR-51LW/C36+N2)</item>
+        <item> 志高 KF-51LW/C36+N2(Chigo KF-51LW/C36+N2)</item>
+        <item> 志高 KFR-51LW/N33+N3(Chigo KFR-51LW/N33+N3)</item>
+        <item> 志高 KFR-25GW/B96+N2(Chigo KFR-25GW/B96+N2)</item>
+        <item> 志高 KFR-72LW/C32+N3(Chigo KFR-72LW/C32+N3)</item>
+        <item> 志高 KFR-32GW/A99+N2(Chigo KFR-32GW/A99+N2)</item>
+        <item> 志高 KFR-35GW/E104+N2(白)2(Chigo KFR-35GW/E104+N2(白)2)</item>
+        <item> 志高 KFR-35GW/MD(M96A)+1(Chigo KFR-35GW/MD(M96A)+1)</item>
+        <item> 志高 KFR-35GW/A96+N2(Chigo KFR-35GW/A96+N2)</item>
+        <item> 志高 KF-25GW/B75+N2(Chigo KF-25GW/B75+N2)</item>
+        <item> 志高 KFR-51LW/B38+N2(Chigo KFR-51LW/B38+N2)</item>
+        <item> 志高 KFR-25GW/A107+N2(Chigo KFR-25GW/A107+N2)</item>
+        <item> 志高 KF-51GW/D96+N3(Chigo KF-51GW/D96+N3)</item>
+        <item> 志高 KFR-35GW/MD(M81A)+1(Chigo KFR-35GW/MD(M81A)+1)</item>
+        <item> 志高 KFR-51GW/PD(P96A)+1(Chigo KFR-51GW/PD(P96A)+1)</item>
+        <item> 志高 KFR-32GW/MD(M96A)+1(Chigo KFR-32GW/MD(M96A)+1)</item>
+        <item> 志高 KF-51GW/D104+N3(Chigo KF-51GW/D104+N3)</item>
+        <item> 志高 KFR-25GW/B104+N3(Chigo KFR-25GW/B104+N3)</item>
+        <item> 志高 KFR-51LW/C33+N2(Chigo KFR-51LW/C33+N2)</item>
+        <item> 志高 KF-51LW/C36+N3(Chigo KF-51LW/C36+N3)</item>
+        <item> 志高 KFR-25GW/D96+N3(Chigo KFR-25GW/D96+N3)</item>
+        <item> 志高 KFR-25GW/B98+N3(Chigo KFR-25GW/B98+N3)</item>
+        <item> 志高 KFR-72LW/C36+N3(Chigo KFR-72LW/C36+N3)</item>
+        <item> 志高 KFR-26GW/ABP120+3A(Chigo KFR-26GW/ABP120+3A)</item>
+        <item> 志高 KF-35GW/E104+N2(Chigo KF-35GW/E104+N2)</item>
+        <item> 志高 KFR-35GW/A99+N2(Chigo KFR-35GW/A99+N2)</item>
+        <item> 志高 KFR-36GW/ABP120+3A(Chigo KFR-36GW/ABP120+3A)</item>
+        <item> 志高 KF-35GW/M(M100A)+1(Chigo KF-35GW/M(M100A)+1)</item>
+        <item> 志高 KFR-51LW/B(E36A)+2(Chigo KFR-51LW/B(E36A)+2)</item>
+        <item> 志高 KF-25GW/B94+N3(Chigo KF-25GW/B94+N3)</item>
+        <item> 志高 KF-51LW/N33+N3(Chigo KF-51LW/N33+N3)</item>
+        <item> 志高 KFR-35GW/A107+N3(Chigo KFR-35GW/A107+N3)</item>
+        <item> 志高 KFR-35GW/A107+N2(Chigo KFR-35GW/A107+N2)</item>
+        <item> 志高 KFR-51GW/D104+N3(Chigo KFR-51GW/D104+N3)</item>
+        <item> 志高 KFR-32GW/A104+N2(Chigo KFR-32GW/A104+N2)</item>
+        <item> 志高 KFR-51LW/C32+N2(Chigo KFR-51LW/C32+N2)</item>
+        <item> 志高 KFR-35GW/A120+N2(Chigo KFR-35GW/A120+N2)</item>
+        <item> 志高 KFR-25GW/A100+N2(Chigo KFR-25GW/A100+N2)</item>
+        <item> 志高 KFR-51LW/C33+N3(Chigo KFR-51LW/C33+N3)</item>
+        <item> 志高 KFR-72LW/C33+N3(Chigo KFR-72LW/C33+N3)</item>
+        <item> 志高 KFR-25GW/A104+N2(Chigo KFR-25GW/A104+N2)</item>
+        <item> 志高 KFR-35GW/MD(M75A)+1(Chigo KFR-35GW/MD(M75A)+1)</item>
+        <item> 志高 KFR-25GW/B75+N3(Chigo KFR-25GW/B75+N3)</item>
+        <item> 志高 KFR-25GW/B94+N3(白)(Chigo KFR-25GW/B94+N3(白))</item>
+        <item> 志高 KFR-25GW/VD(V81A)(Chigo KFR-25GW/VD(V81A))</item>
+        <item> 志高 KFR-51GW/D96+N2(Chigo KFR-51GW/D96+N2)</item>
+        <item> 志高 KFR-32GW/A107+N2(Chigo KFR-32GW/A107+N2)</item>
+        <item> 志高 KFR-51GW/PD(P81A)+1(Chigo KFR-51GW/PD(P81A)+1)</item>
+        <item> 志高 KFR-35GW/vD(v81A)+3(Chigo KFR-35GW/vD(v81A)+3)</item>
+        <item> 志高 KFR-35GW/A75+N3(Chigo KFR-35GW/A75+N3)</item>
+        <item> 志高 KFR-35GW/A94+N2白(Chigo KFR-35GW/A94+N2白)</item>
+        <item> 志高 KFR-35GW/E104+N2(白)5(Chigo KFR-35GW/E104+N2(白)5)</item>
+        <item> 志高 KFR-51GW/CD(A47B)(Chigo KFR-51GW/CD(A47B))</item>
+        <item> 志高 RKN502A-2(Chigo RKN502A-2)</item>
+        <item> 志高 RKN502A(Chigo RKN502A)</item>
+        <item> 志高 RKN500A(Chigo RKN500A)</item>
+        <item> 志高 ZH/JG-01(Chigo ZH/JG-01)</item>
+        <item> 志高 DH/JG-01(Chigo DH/JG-01)</item>
+        <item> 志高 ZC/JG-01(Chigo ZC/JG-01)</item>
+        <item> 志高 DC/JG-01(Chigo ZC/JG-01)</item>
+        <item> 志高 ZH/LW-03(Chigo ZH/LW-03)</item>
+        <item> 志高 ZC/LW-03(Chigo ZC/LW-03)</item>
+        <item> 志高 KFR-25GW/D104+N3(Chigo KFR-25GW/D104+N3)</item>
+        <item> 志高 KFR-35GW/C104+N3(Chigo KFR-35GW/C104+N3)</item>
+        <item> 志高 KFR-26GW/ABP123+3A(Chigo KFR-26GW/ABP123+3A)</item>
+        <item> 志高 KFR-51GW/H104+N3(Chigo KFR-51GW/H104+N3)</item>
+        <item> 志高 KFR-25GW/B104+N2(Chigo KFR-25GW/B104+N2)</item>
+        <item> 志高 KFR-26GW/ABP117+3A(Chigo KFR-26GW/ABP117+3A)</item>
+        <item> 志高 KFR-35GW/E104+N2(Chigo KFR-35GW/E104+N2)</item>
+        <item> 志高 KFR-72LW/N33+N3(Chigo KFR-72LW/N33+N3)</item>
+        <item> 志高 KFR-72LW/N29+N3(Chigo KFR-72LW/N29+N3)</item>
+        <item> 志高 KFR-50LW/CBP136+3A(Chigo KFR-50LW/CBP136+3A)</item>
+        <item> 志高 KFR-36GW/ABP119+3A(Chigo KFR-36GW/ABP119+3A)</item>
+        <item> 志高 KFR-25GW/B94+N3(Chigo KFR-25GW/B94+N3)</item>
+        <item> 志高 KFR-35GW/A73+N2(Chigo KFR-35GW/A73+N2)</item>
+        <item> 志高 KFR-36GW/ABP118+3A(Chigo KFR-36GW/ABP118+3A)</item>
+        <item> 志高 KF-35GW/A98+N3(Chigo KF-35GW/A98+N3)</item>
+        <item> 志高 KFR-32GW/A81+N2(Chigo KFR-32GW/A81+N2)</item>
+        <item> 志高 KFR-23GW/E(25)(Chigo KFR-23GW/E(25))</item>
+        <item> 志高 KFR-35GW/FD(F59B)(Chigo KFR-35GW/FD(F59B))</item>
+        <item> 志高 KFR-33GW/A(A27A)(Chigo KFR-33GW/A(A27A))</item>
+        <item> 志高 KFR-51GW/D96+N3(白)(Chigo KFR-51GW/D96+N3(白)</item>
+        <item> 志高 KFR-32GW/FD(F59A)(Chigo KFR-32GW/FD(F59A)</item>
+        <item> 志高 KFR-30GW/E(D)(E48A)(Chigo KFR-30GW/E(D)(E48A)</item>
+        <item> 志高 ZC-LW-01(Chigo ZC-LW-01)</item>
+        <item> 志高 ZH-JT-03(Chigo ZH-JT-03)</item>
+        <item> 富士通 AR-JE4(Fujitsu AR-JE4)</item>
+        <item> 富士通 AR-PV1(Fujitsu AR-PV1)</item>
+        <item> 富士通 AR-PV2(Fujitsu AR-PV2)</item>
+        <item> 富士通 AR-JE8(Fujitsu AR-JE8)</item>
+        <item> 富士通 AR-JE7(Fujitsu AR-JE7)</item>
+        <item> 富士通 KFR-34G(Fujitsu KFR-34G)</item>
+        <item> 富士通 KFR-35G(Fujitsu KFR-35G)</item>
+        <item> 富士通 KFR-32G(Fujitsu KFR-32G)</item>
+        <item> 富士通 ASQA18LEC(Fujitsu ASQA18LEC)</item>
+        <item> 富士通 ASQA12LKC(Fujitsu ASQA12LKC)</item>
+        <item> 富士通 GSA35LKC(Fujitsu GSA35LKC)</item>
+        <item> 富士通 AGQA25LUC(Fujitsu AGQA25LUC)</item>
+        <item> 富士通 NSA12LKC(Fujitsu NSA12LKC)</item>
+        <item> 富士通 ASQA09LKC(Fujitsu ASQA09LKC)</item>
+        <item> 富士通 NAS09LKC(Fujitsu NAS09LKC)</item>
+        <item> 富士通 AR-JW17(Fujitsu AR-JW17)</item>
+        <item> 富士通 AR-JW2(Fujitsu AR-JW2)</item>
+        <item> 富士通 AR-DB2(Fujitsu AR-DB2)</item>
+        <item> 富士通 AR-DB6(Fujitsu AR-DB6)</item>
+        <item> 富士通 AR-DB7(Fujitsu AR-DB7)</item>
+        <item> 富士通 AR-HJ1(Fujitsu AR-HJ1)</item>
+        <item> 惠而浦 DG11E5-05(Whirlpool DG11E5-05)</item>
+        <item> 惠而浦 DG11E3-04(Whirlpool DG11E3-04)</item>
+        <item> 惠而浦 ISH-120S2A(Whirlpool ISH-120S2A)</item>
+        <item> 惠而浦 ISH-90(Whirlpool ISH-90)</item>
+        <item> 惠而浦 AVH-170(Whirlpool AVH-170)</item>
+        <item> 惠而浦 ASH-120FN2(Whirlpool ASH-120FN2)</item>
+        <item> 惠而浦 AVH-240(Whirlpool AVH-240)</item>
+        <item> 惠而浦 ISH-120(Whirlpool ISH-120)</item>
+        <item> 惠而浦 AVH-170N3/C(Whirlpool AVH-170N3/C)</item>
+        <item> 惠而浦 ASH-120FN2/C(Whirlpool ASH-120FN2/C)</item>
+        <item> 惠而浦 ASC-90FN2/C(Whirlpool ASC-90FN2/C)</item>
+        <item> 惠而浦 ASH-120C1/(香槟金)(Whirlpool ASH-120C1/(香槟金)</item>
+        <item> 惠而浦 ASH-90C1/(香槟金)(Whirlpool ASH-90C1/(香槟金)</item>
+        <item> 惠而浦 ASH-90C1/(白)(Whirlpool ASH-90C1/(白)</item>
+        <item> 惠而浦 ASH-120C1/(白)(Whirlpool ASH-120C1/(白)</item>
+        <item> 惠而浦 ISH-90D3A/H(Whirlpool ISH-90D3A/H)</item>
+        <item> 惠而浦 ASH-120B1(Whirlpool ASH-120B1)</item>
+        <item> 惠而浦 ASH-110M(Whirlpool ASH-110M)</item>
+        <item> 惠而浦 AVC-170FN2/C(Whirlpool AVC-170FN2/C)</item>
+        <item> 惠而浦 ASH-120M(Whirlpool ASH-120M)</item>
+        <item> 惠而浦 AVH-240CN2A/H(Whirlpool AVH-240CN2A/H)</item>
+        <item> 惠而浦 ASH-90FN2/C(Whirlpool ASH-90FN2/C)</item>
+        <item> 惠而浦 ISH-120D3A/H(Whirlpool ISH-120D3A/H)</item>
+        <item> 惠而浦 AVH-240B(Whirlpool AVH-240B)</item>
+        <item> 惠而浦 ISH-120D2A/H(Whirlpool ISH-120D2A/H)</item>
+        <item> 惠而浦 AVC-240FN2/C(Whirlpool AVC-240FN2/C)</item>
+        <item> 惠而浦 AVH-170CN2A/H(Whirlpool AVH-170CN2A/H)</item>
+        <item> 惠而浦 AVH-170CN3A/H(Whirlpool AVH-170CN3A/H)</item>
+        <item> 惠而浦 AVH-170FN2/C(Whirlpool AVH-170FN2/C)</item>
+        <item> 惠而浦 AVH-240CN3A/H(Whirlpool AVH-240CN3A/H)</item>
+        <item> 惠而浦 AVH-240FN2/C(Whirlpool AVH-240FN2/C)</item>
+        <item> 惠而浦 ISH-90D2A/H(Whirlpool ISH-90D2A/H)</item>
+        <item> 开利 KT-CR1(Carrier KT-CR1)</item>
+        <item> 开利 RFL-0601(Carrier RFL-0601)</item>
+        <item> 开利 KFL-0301E(Carrier KFL-0301E)</item>
+        <item> 开利 R05A/BG(Carrier R05A/BG)</item>
+        <item> 开利 R05B/BG(Carrier R05B/BG)</item>
+        <item> 开利 RO5A/BG(Carrier RO5A/BG)</item>
+        <item> 日立 RM-8021(Hitachi RM-8021)</item>
+        <item> 三菱电机 RKN502A-2(MITSUBISHI motor RKN502A-2)</item>
+        <item> 三菱电机 SRK258HENF(MITSUBISHI motor SRK258HENF)</item>
+        <item> 三菱电机 SRK285HENF(MITSUBISHI motor SRK285HENF)</item>
+        <item> 三菱电机 SRK325HENF(MITSUBISHI motor SRK325HENF)</item>
+        <item> 三菱电机 KD06ES(MITSUBISHI motor KD06ES)</item>
+        <item> 三菱电机 KD07BS(MITSUBISHI motor KD07BS)</item>
+        <item> 三菱电机 RKN502A(MITSUBISHI motor RKN502A)</item>
+        <item> 三菱电机 RKN502A500A(MITSUBISHI motor RKN502A500A)</item>
+        <item> 三菱电机 RK388(MITSUBISHI motor RK388)</item>
+        <item> 三菱电机 RYA502A001A(MITSUBISHI motor RYA502A001A)</item>
+        <item> 三菱电机 RYA502A002A(MITSUBISHI motor RYA502A002A)</item>
+        <item> 三菱电机 RYD502A006(MITSUBISHI motor RYD502A006)</item>
+        <item> 三菱电机 RYD502A006A(MITSUBISHI motor RYD502A006A)</item>
+        <item> 三菱电机 RYD502A003A(MITSUBISHI motor RYD502A003A)</item>
+        <item> 三菱电机 RYD012A142(MITSUBISHI motor RYD012A142)</item>
+        <item> 三菱重工 RK388-2(MITSUBISHI heavy RK388-2)</item>
+        <item> 三菱重工 RK388(MITSUBISHI heavy RK388)</item>
+        <item> 三菱重工 M09(MITSUBISHI heavy M09)</item>
+        <item> 三菱重工 KT-SL2B(MITSUBISHI heavy KT-SL2B)</item>
+        <item> 三菱重工 EG6C(MITSUBISHI heavy EG6C)</item>
+        <item> 三菱重工 EG7M(MITSUBISHI heavy EG7M)</item>
+        <item> 三菱重工 MSH-J12NV(MITSUBISHI heavy MSH-J12NV)</item>
+        <item> 三菱重工 10NV(MITSUBISHI heavy 10NV)</item>
+        <item> 三洋 RCS-7HS3C(Sanyo RCS-7HS3C)</item>
+        <item> 三洋 RCS-7S3C(Sanyo RCS-7S3C)</item>
+        <item> 三洋 RCS-5WS1C(Sanyo RCS-5WS1C)</item>
+        <item> 特灵 R05A/BG(Sanyo R05A/BG)</item>
+        <item> 特灵 R05B/BG(Sanyo R05B/BG)</item>
+        <item> 特灵 RO5A/BG(Sanyo RO5A/BG)</item>
+        <item> 三垦 R71A/E(SANKEN R71A/E)</item>
+        <item> 约克 RMT-001-HC/V1.00(YORK RMT-001-HC/V1.00)</item>
+        <item> 约克 YORK-R51(YORK YORK-R51)</item>
+        <item> 约克 ZH-TT-02(YORK ZH-TT-02)</item>
+        <item> 约克 R51C(YORK R51C)</item>
+        <item>艾尔泰克 R03(UM-4)(AIRTEK R03(UM-4)</item>
+        <item>大金 ARC452A1 (Daikin ARC452A1)</item>
+        <item>大金 ARC433A75 (Daikin ARC433A75)</item>
+    </string-array>
+    <string-array name="strs_air_brand">
+        <item>美的(Midea)</item>
+        <item>东芝(Toshiba)</item>
+        <item>海尔(Haier)</item>
+        <item>格力(Gree)</item>
+        <item>志高(Chigo)</item>
+        <item>奥克斯(AUX)</item>
+        <item>春兰(Chunlan)</item>
+        <item>LG(LG )</item>
+        <item>TCL(TCL)</item>
+        <item>三星(Samsung)</item>
+        <item>小三星(Small Samsung)</item>
+        <item>三洋(Sanyo)</item>
+        <item>三菱重工(MITSUBISHI heavy)</item>
+        <item>三菱电机(MITSUBISHI motor)</item>
+        <item>长虹(Changhong)</item>
+        <item>松下(Panasonic)</item>
+        <item>乐声(Sound of music)</item>
+        <item>内田(Uchida)</item>
+        <item>海信(Hisense)</item>
+        <item>新科(Shinco)</item>
+        <item>日立(Hitachi)</item>
+        <item>华凌(Hualing)</item>
+        <item>科龙(Kelon)</item>
+        <item>华宝(Warburg)</item>
+        <item>威力(Might)</item>
+        <item>长岭(Changling)</item>
+        <item>迎燕(Ying Yan)</item>
+        <item>蓝波(Blue Wave)</item>
+        <item>玉兔(Rabbit)</item>
+        <item>开利(Carrier)</item>
+        <item>东宝(Toho)</item>
+        <item>高路华(Gaoluhua)</item>
+        <item>澳柯玛(Aucma)</item>
+        <item>胜风1(Shengfeng)</item>
+        <item>扬子(Yangzi)</item>
+        <item>惠而浦(Whirlpool)</item>
+        <item>大金(Daikin)</item>
+        <item> 汇丰(HSBC)</item>
+        <item>东芝2(Toshiba)</item>
+        <item> 伊莱克斯(Electrolux)</item>
+        <item>熊猫(Panda)</item>
+        <item>上凌(Ling on)</item>
+        <item>天元(Tianyuan)</item>
+        <item>其它品牌(Other brands)</item>
+        <item>百合(Lily)</item>
+        <item>SimpLlcrty(SimpLlcrty)</item>
+        <item>大宇(Daewoo)</item>
+        <item>冠远(Clarent)</item>
+        <item>科朗(Colones)</item>
+        <item>南风(Southwind)</item>
+        <item>群达(Kunda)</item>
+        <item>先科(Yushchenko)</item>
+        <item>新飞(Freenet)</item>
+        <item>胜风2(Shengfeng)</item>
+        <item>泰国(Thailand)</item>
+        <item>格兰仕(Glanz)</item>
+        <item>乐华(Leroy)</item>
+        <item>富士通(Fujitsu)</item>
+        <item>约克(York)</item>
+        <item>麦克维尔(McQuay)</item>
+        <item>三垦(sanken)</item>
+        <item> 宝立创(polytron)</item>
+        <item> 夏普(SHARP)</item>
+        <item> 镇堡(ZHEN BAO)</item>
+        <item> 万宝(WANBAO)</item>
+        <item> 樱花(YINGHUA)</item>
+        <item>Akuma(Akuma)</item>
+        <item>Amcor(Amcor)</item>
+        <item>保利通(Poly Tong)</item>
+        <item>北极星(North Star)</item>
+        <item>波卡尔(Pokal)</item>
+        <item>博世(BOSCH)</item>
+        <item>蓝光(Blueway)</item>
+        <item>ClimaSmart(ClimaSmart)</item>
+        <item>大岛(Big Island)</item>
+        <item>丹比(Danby)</item>
+        <item>新诺(New Connaught)</item>
+        <item>大同(Da Tong)</item>
+        <item>东元(Dong Yuan)</item>
+        <item>吉普生(Ji Pusheng)</item>
+        <item>东元2(Dong Yuan)</item>
+        <item>丰臣(Toyotomi)</item>
+        <item>高士达(Goldstar)</item>
+        <item>瑰都细斯(Rose are fine)</item>
+        <item>汉普顿(Hampton)</item>
+        <item>幻想曲(Fantasia)</item>
+        <item>吉菜瑞(Ji Cairui)</item>
+        <item>金北京(Jin Beijing)</item>
+        <item>康拜恩(Kang Baien)</item>
+        <item>可乐娜(Corona)</item>
+        <item>新格(New Lattice)</item>
+        <item>基奥瓦(Kiowa)</item>
+        <item>广镁(Komeco)</item>
+        <item>蓝星(BLUESTAR)</item>
+        <item>乐士(Cross)</item>
+        <item>乐信(Le letter)</item>
+        <item>华美(Huamei)</item>
+        <item>MDV(MDV)</item>
+        <item>美歌(Bel Canto)</item>
+        <item>米勒(Miller)</item>
+        <item>松下早期(National)</item>
+        <item>欧锴(Oak)</item>
+        <item>欧珍宝(Ou Zhenbao)</item>
+        <item>拍得丽(Premier)</item>
+        <item>庆元(Qing Yuan)</item>
+        <item>日新(The new)</item>
+        <item>凌宝(Ling Bao)</item>
+        <item>二凌(Two Ling)</item>
+        <item>三凌(Ling)</item>
+        <item>三菱(Ling)</item>
+        <item>三钻(Three drill)</item>
+        <item>西尔斯(Sears)</item>
+        <item>声宝(Sampo)</item>
+        <item>双鹿(Shuanglu)</item>
+        <item>数源(Soyea)</item>
+        <item>舒适艾尔(Comfort Eyre)</item>
+        <item>索尼埃(Sonia)</item>
+        <item>塔迪兰(Tadiran)</item>
+        <item>田源(Tian Yuan)</item>
+        <item>通用(General)</item>
+        <item>立荣(Uni-Air)</item>
+        <item>万家乐(Macro)</item>
+        <item>维友康(Wei Youkang)</item>
+        <item>LG Whisen(Whisen)</item>
+        <item>万事益(Wanshiyi)</item>
+        <item>小天鹅(Little Swan)</item>
+        <item>熙尔楷模(Xi Er model)</item>
+        <item>雪花(Snow)</item>
+        <item>亚马逊(Yamatsu)</item>
+        <item>阳光(Sunshine)</item>
+        <item>以莱特(Electra)</item>
+        <item>永安(Yongan)</item>
+        <item>月兔(Moon Rabbit)</item>
+        <item>扎米尔(Zamir)</item>
+        <item>长府(Long Fu)</item>
+        <item>小鸭(Duckling)</item>
+        <item>云雅(Winia)</item>
+        <item>特灵(Trane)</item>
+        <item>首华(China)</item>
+        <item>康佳(Konka)</item>
+        <item>禾联(Helian)</item>
+        <item>歌林(Song Lin)</item>
+        <item>飞鹿(Deer fly)</item>
+        <item>飞科(Flyco)</item>
+        <item>东佑达(Saka Dongwooda)</item>
+        <item>阪神(Kobe)</item>
+        <item>大同公司(Datong company)</item>
+        <item>蒂雅克(Teac)</item>
+        <item>东洋(TOYO)</item>
+        <item>飞歌(Song)</item>
+        <item>丰泽(Fortress)</item>
+        <item>福奈(Funai)</item>
+        <item>通用电器(GE)</item>
+        <item>格威尔(Gwell)</item>
+        <item>古桥(The ancient bridge)</item>
+        <item>贺曼(Herman)</item>
+        <item>皇冠(An crown)</item>
+        <item> 万士益(Wan Shiyi)</item>
+        <item>现代(Modern)</item>
+        <item>新乐(Xinle)</item>
+        <item>西屋(Westinghouse)</item>
+        <item>宇电(Yudian)</item>
+        <item>天鹅(Swan)</item>
+        <item>帅康(Sacon)</item>
+        <item>尚纳斯(Still Jonas)</item>
+        <item>信兴乐信(Rasonic)</item>
+        <item>日高(NIKKO)</item>
+        <item>普腾(Proton)</item>
+        <item>华为(Huawei)</item>
+        <item>惠康(Wellcome)</item>
+        <item>雷诺士(Lennox)</item>
+        <item>良峰(Liang Feng)</item>
+        <item>利凯尔(Likel)</item>
+        <item>艾普顿(APTON)</item>
+        <item>艾尔泰克(AIRTEK)</item>
+        <item>国际(International)</item>
+        <item>全部(ALL)</item>
+
+
+    </string-array>
+
+</resources>

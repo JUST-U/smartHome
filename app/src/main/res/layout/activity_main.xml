@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="cn.edu.zstu.smarthome.MainActivity">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/discover_device_btn"
+        android:text="发现设备"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/status_device_btn"
+        android:text="获取设备状态"
+        />
+
+    <android.support.v7.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/ir_code"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ir_Code"/>
+
+        <Button
+            android:id="@+id/fans_power"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Fans"/>
+
+        <Button
+            android:id="@+id/add_controller"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="添加遥控器"/>
+
+    </android.support.v7.widget.LinearLayoutCompat>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/open_curtain_btn"
+        android:text="打开窗帘"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/pause_curtain_btn"
+        android:text="暂停窗帘"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/close_curtain_btn"
+        android:text="关闭窗帘"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/test_device_btn"
+        android:text="测试数据"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/dis_status_device_btn"
+        android:text="断开控制"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/undiscover_device_btn"
+        android:text="断开链接"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="设备信息"
+        android:id="@+id/status_device_tv"
+        />
+</LinearLayout>

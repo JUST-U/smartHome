@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context="cn.edu.zstu.smarthome.IrBrandActivity">
+
+    <ListView
+        android:id="@+id/ir_brand_list_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/textWizardsInfo"
+        android:cacheColorHint="#FFFFFF"
+        android:scrollbars="none" />
+
+    <cn.edu.zstu.smarthome.base.SideBar
+        android:id="@+id/ir_brand_list_side_bar"
+        android:layout_width="30dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/textWizardsInfo"
+        android:background="#1A000000" />
+
+    <TextView
+        android:id="@+id/ir_brand_list_side_bar_text"
+        android:layout_width="70dip"
+        android:layout_height="70dip"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:background="#eeeeee"
+        android:gravity="center"
+        android:textColor="@android:color/black"
+        android:textSize="50sp"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/textWizardsInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:text="选择品牌"
+        android:textSize="15sp" />
+
+</RelativeLayout>
